@@ -1,0 +1,2080 @@
+{
+ "schema": 1,
+ "id": "ielts-core",
+ "version": 1,
+ "title": "IELTS Core – từ vựng học thuật nền",
+ "createdAt": "2026-10-18",
+ "visibility": "members",
+ "words": [
+  {
+   "id": "w_mitigate",
+   "lemma": "mitigate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈmɪtɪɡeɪt/",
+   "meaningsVi": [
+    "giảm nhẹ",
+    "làm dịu"
+   ],
+   "definitionEn": "to make something less harmful or severe",
+   "examples": [
+    "Planting trees can mitigate the effects of urban heat."
+   ],
+   "collocations": [
+    "mitigate the effects of",
+    "mitigate risk"
+   ],
+   "synonyms": [
+    "alleviate",
+    "reduce"
+   ],
+   "antonyms": [],
+   "family": [
+    "mitigation"
+   ],
+   "band": 7.0,
+   "topics": [
+    "environment"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_sustainable",
+   "lemma": "sustainable",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/səˈsteɪnəbl/",
+   "meaningsVi": [
+    "bền vững"
+   ],
+   "definitionEn": "able to continue over a long time without harming the environment",
+   "examples": [
+    "Governments should invest in sustainable energy sources."
+   ],
+   "collocations": [
+    "sustainable development",
+    "sustainable growth"
+   ],
+   "synonyms": [
+    "viable",
+    "eco-friendly"
+   ],
+   "antonyms": [],
+   "family": [
+    "sustain",
+    "sustainability"
+   ],
+   "band": 6.5,
+   "topics": [
+    "environment"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_consume",
+   "lemma": "consume",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/kənˈsjuːm/",
+   "meaningsVi": [
+    "tiêu thụ"
+   ],
+   "definitionEn": "to use fuel, energy or time",
+   "examples": [
+    "Large cities consume enormous amounts of electricity."
+   ],
+   "collocations": [
+    "consume energy",
+    "consume resources"
+   ],
+   "synonyms": [
+    "use up",
+    "expend"
+   ],
+   "antonyms": [],
+   "family": [
+    "consumption",
+    "consumer"
+   ],
+   "band": 6.0,
+   "topics": [
+    "environment",
+    "economy"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_derive",
+   "lemma": "derive",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/dɪˈraɪv/",
+   "meaningsVi": [
+    "bắt nguồn",
+    "thu được"
+   ],
+   "definitionEn": "to get something from a source",
+   "examples": [
+    "Many people derive great satisfaction from volunteering."
+   ],
+   "collocations": [
+    "derive from",
+    "derive benefit from"
+   ],
+   "synonyms": [
+    "obtain",
+    "originate"
+   ],
+   "antonyms": [],
+   "family": [
+    "derivation",
+    "derivative"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_significant",
+   "lemma": "significant",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "meaningsVi": [
+    "đáng kể",
+    "quan trọng"
+   ],
+   "definitionEn": "large or important enough to have an effect",
+   "examples": [
+    "There has been a significant rise in online learning."
+   ],
+   "collocations": [
+    "significant increase",
+    "significant impact"
+   ],
+   "synonyms": [
+    "considerable",
+    "substantial"
+   ],
+   "antonyms": [],
+   "family": [
+    "significance",
+    "significantly"
+   ],
+   "band": 6.0,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_contribute",
+   "lemma": "contribute",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/kənˈtrɪbjuːt/",
+   "meaningsVi": [
+    "đóng góp; góp phần gây ra"
+   ],
+   "definitionEn": "to give something to help achieve a result",
+   "examples": [
+    "Poor diet contributes to many health problems."
+   ],
+   "collocations": [
+    "contribute to",
+    "contribute significantly"
+   ],
+   "synonyms": [
+    "add",
+    "donate"
+   ],
+   "antonyms": [],
+   "family": [
+    "contribution",
+    "contributor"
+   ],
+   "band": 6.0,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_alleviate",
+   "lemma": "alleviate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/əˈliːvieɪt/",
+   "meaningsVi": [
+    "làm giảm bớt (đau đớn",
+    "vấn đề)"
+   ],
+   "definitionEn": "to make a problem or suffering less severe",
+   "examples": [
+    "New policies aim to alleviate poverty in rural areas."
+   ],
+   "collocations": [
+    "alleviate poverty",
+    "alleviate pressure"
+   ],
+   "synonyms": [
+    "ease",
+    "relieve"
+   ],
+   "antonyms": [],
+   "family": [
+    "alleviation"
+   ],
+   "band": 7.0,
+   "topics": [
+    "society",
+    "health"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_exacerbate",
+   "lemma": "exacerbate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ɪɡˈzæsəbeɪt/",
+   "meaningsVi": [
+    "làm trầm trọng thêm"
+   ],
+   "definitionEn": "to make a bad situation worse",
+   "examples": [
+    "Cheap fuel may exacerbate traffic congestion."
+   ],
+   "collocations": [
+    "exacerbate the problem",
+    "exacerbate tensions"
+   ],
+   "synonyms": [
+    "worsen",
+    "aggravate"
+   ],
+   "antonyms": [],
+   "family": [
+    "exacerbation"
+   ],
+   "band": 7.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_detrimental",
+   "lemma": "detrimental",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˌdetrɪˈmentl/",
+   "meaningsVi": [
+    "có hại"
+   ],
+   "definitionEn": "causing harm or damage",
+   "examples": [
+    "Excessive screen time can be detrimental to children's health."
+   ],
+   "collocations": [
+    "detrimental effect",
+    "detrimental to"
+   ],
+   "synonyms": [
+    "harmful",
+    "damaging"
+   ],
+   "antonyms": [],
+   "family": [
+    "detriment"
+   ],
+   "band": 7.0,
+   "topics": [
+    "health",
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_inevitable",
+   "lemma": "inevitable",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ɪnˈevɪtəbl/",
+   "meaningsVi": [
+    "không thể tránh khỏi"
+   ],
+   "definitionEn": "certain to happen and impossible to avoid",
+   "examples": [
+    "Some job losses are inevitable as automation spreads."
+   ],
+   "collocations": [
+    "inevitable consequence",
+    "almost inevitable"
+   ],
+   "synonyms": [
+    "unavoidable",
+    "inescapable"
+   ],
+   "antonyms": [],
+   "family": [
+    "inevitability",
+    "inevitably"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_enhance",
+   "lemma": "enhance",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ɪnˈhɑːns/",
+   "meaningsVi": [
+    "nâng cao",
+    "cải thiện"
+   ],
+   "definitionEn": "to improve the quality or value of something",
+   "examples": [
+    "Technology can enhance the learning experience."
+   ],
+   "collocations": [
+    "enhance performance",
+    "enhance quality"
+   ],
+   "synonyms": [
+    "improve",
+    "boost"
+   ],
+   "antonyms": [],
+   "family": [
+    "enhancement"
+   ],
+   "band": 6.5,
+   "topics": [
+    "education",
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_implement",
+   "lemma": "implement",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈɪmplɪment/",
+   "meaningsVi": [
+    "thực hiện",
+    "triển khai"
+   ],
+   "definitionEn": "to put a plan or system into action",
+   "examples": [
+    "The school implemented a new reading programme."
+   ],
+   "collocations": [
+    "implement a policy",
+    "implement changes"
+   ],
+   "synonyms": [
+    "carry out",
+    "execute"
+   ],
+   "antonyms": [],
+   "family": [
+    "implementation"
+   ],
+   "band": 6.5,
+   "topics": [
+    "government",
+    "education"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_regulate",
+   "lemma": "regulate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈreɡjuleɪt/",
+   "meaningsVi": [
+    "điều chỉnh",
+    "quản lý bằng quy định"
+   ],
+   "definitionEn": "to control something by rules or laws",
+   "examples": [
+    "Governments should regulate advertising aimed at children."
+   ],
+   "collocations": [
+    "regulate the industry",
+    "strictly regulated"
+   ],
+   "synonyms": [
+    "control",
+    "govern"
+   ],
+   "antonyms": [],
+   "family": [
+    "regulation",
+    "regulatory"
+   ],
+   "band": 6.5,
+   "topics": [
+    "government"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_prioritise",
+   "lemma": "prioritise",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/praɪˈɒrətaɪz/",
+   "meaningsVi": [
+    "ưu tiên"
+   ],
+   "definitionEn": "to treat something as more important than other things",
+   "examples": [
+    "Cities should prioritise public transport over private cars."
+   ],
+   "collocations": [
+    "prioritise spending",
+    "prioritise needs"
+   ],
+   "synonyms": [
+    "rank first",
+    "put first"
+   ],
+   "antonyms": [],
+   "family": [
+    "priority",
+    "prioritisation"
+   ],
+   "band": 6.5,
+   "topics": [
+    "government"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_substantial",
+   "lemma": "substantial",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/səbˈstænʃl/",
+   "meaningsVi": [
+    "đáng kể",
+    "lớn"
+   ],
+   "definitionEn": "large in amount or importance",
+   "examples": [
+    "Students make substantial progress in a short time."
+   ],
+   "collocations": [
+    "substantial amount",
+    "substantial evidence"
+   ],
+   "synonyms": [
+    "considerable",
+    "sizeable"
+   ],
+   "antonyms": [],
+   "family": [
+    "substance",
+    "substantially"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_unprecedented",
+   "lemma": "unprecedented",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ʌnˈpresɪdentɪd/",
+   "meaningsVi": [
+    "chưa từng có"
+   ],
+   "definitionEn": "never having happened before",
+   "examples": [
+    "The pandemic caused unprecedented disruption to education."
+   ],
+   "collocations": [
+    "unprecedented level",
+    "unprecedented growth"
+   ],
+   "synonyms": [
+    "unparalleled",
+    "exceptional"
+   ],
+   "antonyms": [],
+   "family": [
+    "precedent"
+   ],
+   "band": 7.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_phenomenon",
+   "lemma": "phenomenon",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/fəˈnɒmɪnən/",
+   "meaningsVi": [
+    "hiện tượng"
+   ],
+   "definitionEn": "a fact or event that can be observed",
+   "examples": [
+    "Remote working is a relatively new phenomenon."
+   ],
+   "collocations": [
+    "a global phenomenon",
+    "natural phenomenon"
+   ],
+   "synonyms": [
+    "occurrence",
+    "event"
+   ],
+   "antonyms": [],
+   "family": [
+    "phenomena (pl.)",
+    "phenomenal"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_foster",
+   "lemma": "foster",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈfɒstə/",
+   "meaningsVi": [
+    "nuôi dưỡng",
+    "thúc đẩy"
+   ],
+   "definitionEn": "to encourage the development of something",
+   "examples": [
+    "Group projects foster teamwork and communication skills."
+   ],
+   "collocations": [
+    "foster creativity",
+    "foster a sense of"
+   ],
+   "synonyms": [
+    "encourage",
+    "promote"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "education",
+    "society"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_undermine",
+   "lemma": "undermine",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˌʌndəˈmaɪn/",
+   "meaningsVi": [
+    "làm suy yếu",
+    "làm xói mòn"
+   ],
+   "definitionEn": "to weaken something gradually",
+   "examples": [
+    "Fake news can undermine trust in the media."
+   ],
+   "collocations": [
+    "undermine confidence",
+    "undermine authority"
+   ],
+   "synonyms": [
+    "weaken",
+    "erode"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "media",
+    "society"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_accessible",
+   "lemma": "accessible",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/əkˈsesəbl/",
+   "meaningsVi": [
+    "dễ tiếp cận"
+   ],
+   "definitionEn": "easy to reach, use or understand",
+   "examples": [
+    "Online courses make education accessible to more people."
+   ],
+   "collocations": [
+    "easily accessible",
+    "accessible to all"
+   ],
+   "synonyms": [
+    "available",
+    "reachable"
+   ],
+   "antonyms": [],
+   "family": [
+    "access",
+    "accessibility"
+   ],
+   "band": 6.5,
+   "topics": [
+    "education",
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_disparity",
+   "lemma": "disparity",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/dɪˈspærəti/",
+   "meaningsVi": [
+    "sự chênh lệch"
+   ],
+   "definitionEn": "a noticeable difference between things",
+   "examples": [
+    "There is a growing disparity between rich and poor."
+   ],
+   "collocations": [
+    "income disparity",
+    "disparity between"
+   ],
+   "synonyms": [
+    "gap",
+    "inequality"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.5,
+   "topics": [
+    "society",
+    "economy"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_incentive",
+   "lemma": "incentive",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/ɪnˈsentɪv/",
+   "meaningsVi": [
+    "sự khuyến khích",
+    "động lực"
+   ],
+   "definitionEn": "something that encourages people to do something",
+   "examples": [
+    "Tax incentives encourage firms to hire more graduates."
+   ],
+   "collocations": [
+    "financial incentive",
+    "provide an incentive"
+   ],
+   "synonyms": [
+    "motivation",
+    "stimulus"
+   ],
+   "antonyms": [],
+   "family": [
+    "incentivise"
+   ],
+   "band": 6.5,
+   "topics": [
+    "economy",
+    "government"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_deter",
+   "lemma": "deter",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/dɪˈtɜː/",
+   "meaningsVi": [
+    "ngăn cản",
+    "răn đe"
+   ],
+   "definitionEn": "to make someone decide not to do something",
+   "examples": [
+    "Heavy fines may deter drivers from using phones."
+   ],
+   "collocations": [
+    "deter crime",
+    "deter someone from"
+   ],
+   "synonyms": [
+    "discourage",
+    "dissuade"
+   ],
+   "antonyms": [],
+   "family": [
+    "deterrent"
+   ],
+   "band": 7.0,
+   "topics": [
+    "crime",
+    "government"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_compensate",
+   "lemma": "compensate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈkɒmpenseɪt/",
+   "meaningsVi": [
+    "bù đắp",
+    "đền bù"
+   ],
+   "definitionEn": "to make up for something lost or bad",
+   "examples": [
+    "Higher salaries do not always compensate for long hours."
+   ],
+   "collocations": [
+    "compensate for",
+    "compensate employees"
+   ],
+   "synonyms": [
+    "make up for",
+    "offset"
+   ],
+   "antonyms": [],
+   "family": [
+    "compensation"
+   ],
+   "band": 6.5,
+   "topics": [
+    "work",
+    "economy"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_comprehensive",
+   "lemma": "comprehensive",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˌkɒmprɪˈhensɪv/",
+   "meaningsVi": [
+    "toàn diện"
+   ],
+   "definitionEn": "including all or nearly all aspects",
+   "examples": [
+    "The report offers a comprehensive review of education policy."
+   ],
+   "collocations": [
+    "comprehensive study",
+    "comprehensive approach"
+   ],
+   "synonyms": [
+    "thorough",
+    "extensive"
+   ],
+   "antonyms": [],
+   "family": [
+    "comprehend",
+    "comprehension"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_restrict",
+   "lemma": "restrict",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/rɪˈstrɪkt/",
+   "meaningsVi": [
+    "hạn chế"
+   ],
+   "definitionEn": "to limit the size, amount or range of something",
+   "examples": [
+    "Many cities restrict car use in the centre."
+   ],
+   "collocations": [
+    "restrict access",
+    "strictly restricted"
+   ],
+   "synonyms": [
+    "limit",
+    "curb"
+   ],
+   "antonyms": [],
+   "family": [
+    "restriction",
+    "restrictive"
+   ],
+   "band": 6.5,
+   "topics": [
+    "government"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_adapt",
+   "lemma": "adapt",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/əˈdæpt/",
+   "meaningsVi": [
+    "thích nghi"
+   ],
+   "definitionEn": "to change to suit a new situation",
+   "examples": [
+    "Workers must adapt to rapidly changing technology."
+   ],
+   "collocations": [
+    "adapt to",
+    "adapt quickly"
+   ],
+   "synonyms": [
+    "adjust",
+    "modify"
+   ],
+   "antonyms": [],
+   "family": [
+    "adaptation",
+    "adaptable"
+   ],
+   "band": 6.0,
+   "topics": [
+    "work",
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_prevalent",
+   "lemma": "prevalent",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈprevələnt/",
+   "meaningsVi": [
+    "phổ biến",
+    "thịnh hành"
+   ],
+   "definitionEn": "existing commonly at a particular time or place",
+   "examples": [
+    "Obesity is increasingly prevalent among young people."
+   ],
+   "collocations": [
+    "widely prevalent",
+    "prevalent in"
+   ],
+   "synonyms": [
+    "widespread",
+    "common"
+   ],
+   "antonyms": [],
+   "family": [
+    "prevalence"
+   ],
+   "band": 7.0,
+   "topics": [
+    "health",
+    "society"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_curb",
+   "lemma": "curb",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/kɜːb/",
+   "meaningsVi": [
+    "kiềm chế",
+    "hạn chế"
+   ],
+   "definitionEn": "to control or limit something harmful",
+   "examples": [
+    "Higher taxes could curb the consumption of sugary drinks."
+   ],
+   "collocations": [
+    "curb inflation",
+    "curb emissions"
+   ],
+   "synonyms": [
+    "restrain",
+    "limit"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "government",
+    "health"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_integral",
+   "lemma": "integral",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈɪntɪɡrəl/",
+   "meaningsVi": [
+    "thiết yếu",
+    "không thể thiếu"
+   ],
+   "definitionEn": "necessary and important as a part of a whole",
+   "examples": [
+    "Exercise should be an integral part of the school day."
+   ],
+   "collocations": [
+    "integral part of",
+    "integral to"
+   ],
+   "synonyms": [
+    "essential",
+    "fundamental"
+   ],
+   "antonyms": [],
+   "family": [
+    "integrate",
+    "integration"
+   ],
+   "band": 7.0,
+   "topics": [
+    "education"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_fluctuate",
+   "lemma": "fluctuate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈflʌktʃueɪt/",
+   "meaningsVi": [
+    "dao động",
+    "biến động"
+   ],
+   "definitionEn": "to change frequently in amount or level",
+   "examples": [
+    "House prices fluctuate according to demand."
+   ],
+   "collocations": [
+    "fluctuate between",
+    "fluctuate wildly"
+   ],
+   "synonyms": [
+    "vary",
+    "oscillate"
+   ],
+   "antonyms": [],
+   "family": [
+    "fluctuation"
+   ],
+   "band": 7.0,
+   "topics": [
+    "economy",
+    "graph"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_deteriorate",
+   "lemma": "deteriorate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/dɪˈtɪəriəreɪt/",
+   "meaningsVi": [
+    "xấu đi",
+    "suy thoái"
+   ],
+   "definitionEn": "to become worse over time",
+   "examples": [
+    "Air quality has deteriorated in many major cities."
+   ],
+   "collocations": [
+    "rapidly deteriorate",
+    "deteriorate further"
+   ],
+   "synonyms": [
+    "worsen",
+    "decline"
+   ],
+   "antonyms": [],
+   "family": [
+    "deterioration"
+   ],
+   "band": 7.0,
+   "topics": [
+    "environment",
+    "health"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_advocate",
+   "lemma": "advocate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈædvəkeɪt/",
+   "meaningsVi": [
+    "ủng hộ",
+    "chủ trương"
+   ],
+   "definitionEn": "to publicly support an idea or policy",
+   "examples": [
+    "Some experts advocate a shorter working week."
+   ],
+   "collocations": [
+    "strongly advocate",
+    "advocate for"
+   ],
+   "synonyms": [
+    "support",
+    "champion"
+   ],
+   "antonyms": [],
+   "family": [
+    "advocacy",
+    "advocate (n.)"
+   ],
+   "band": 7.0,
+   "topics": [
+    "society"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_hinder",
+   "lemma": "hinder",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈhɪndə/",
+   "meaningsVi": [
+    "cản trở"
+   ],
+   "definitionEn": "to make it difficult for something to happen",
+   "examples": [
+    "Lack of funding may hinder scientific research."
+   ],
+   "collocations": [
+    "hinder progress",
+    "hinder development"
+   ],
+   "synonyms": [
+    "impede",
+    "obstruct"
+   ],
+   "antonyms": [],
+   "family": [
+    "hindrance"
+   ],
+   "band": 7.0,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_widespread",
+   "lemma": "widespread",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈwaɪdspred/",
+   "meaningsVi": [
+    "lan rộng",
+    "phổ biến"
+   ],
+   "definitionEn": "existing or happening in many places",
+   "examples": [
+    "Concern about online privacy is widespread."
+   ],
+   "collocations": [
+    "widespread use",
+    "widespread concern"
+   ],
+   "synonyms": [
+    "extensive",
+    "common"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_tackle",
+   "lemma": "tackle",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈtækl/",
+   "meaningsVi": [
+    "giải quyết",
+    "xử lý"
+   ],
+   "definitionEn": "to try to deal with a difficult problem",
+   "examples": [
+    "Governments must tackle climate change urgently."
+   ],
+   "collocations": [
+    "tackle the problem",
+    "tackle an issue"
+   ],
+   "synonyms": [
+    "address",
+    "deal with"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 6.5,
+   "topics": [
+    "government",
+    "environment"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_vulnerable",
+   "lemma": "vulnerable",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈvʌlnərəbl/",
+   "meaningsVi": [
+    "dễ bị tổn thương"
+   ],
+   "definitionEn": "easily harmed or affected",
+   "examples": [
+    "Children are particularly vulnerable to online risks."
+   ],
+   "collocations": [
+    "vulnerable to",
+    "vulnerable groups"
+   ],
+   "synonyms": [
+    "exposed",
+    "susceptible"
+   ],
+   "antonyms": [],
+   "family": [
+    "vulnerability"
+   ],
+   "band": 7.0,
+   "topics": [
+    "society",
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_outweigh",
+   "lemma": "outweigh",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˌaʊtˈweɪ/",
+   "meaningsVi": [
+    "có giá trị/ảnh hưởng lớn hơn"
+   ],
+   "definitionEn": "to be greater or more important than something",
+   "examples": [
+    "The benefits of tourism outweigh the drawbacks."
+   ],
+   "collocations": [
+    "outweigh the disadvantages",
+    "far outweigh"
+   ],
+   "synonyms": [
+    "exceed",
+    "override"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_rely_on",
+   "lemma": "rely on",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/rɪˈlaɪ ɒn/",
+   "meaningsVi": [
+    "phụ thuộc vào",
+    "dựa vào"
+   ],
+   "definitionEn": "to depend on someone or something",
+   "examples": [
+    "Many students rely on the internet for research."
+   ],
+   "collocations": [
+    "heavily rely on",
+    "rely on technology"
+   ],
+   "synonyms": [
+    "depend on",
+    "count on"
+   ],
+   "antonyms": [],
+   "family": [
+    "reliance",
+    "reliable"
+   ],
+   "band": 6.0,
+   "topics": [
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_urbanisation",
+   "lemma": "urbanisation",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/ˌɜːbənaɪˈzeɪʃn/",
+   "meaningsVi": [
+    "đô thị hoá"
+   ],
+   "definitionEn": "the growth of towns and cities",
+   "examples": [
+    "Rapid urbanisation puts pressure on housing and transport."
+   ],
+   "collocations": [
+    "rapid urbanisation",
+    "urbanisation process"
+   ],
+   "synonyms": [
+    "city growth"
+   ],
+   "antonyms": [],
+   "family": [
+    "urban",
+    "urbanise"
+   ],
+   "band": 6.5,
+   "topics": [
+    "environment",
+    "society"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_deforestation",
+   "lemma": "deforestation",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+   "meaningsVi": [
+    "nạn phá rừng"
+   ],
+   "definitionEn": "the cutting down of large areas of forest",
+   "examples": [
+    "Deforestation reduces biodiversity and increases carbon emissions."
+   ],
+   "collocations": [
+    "large-scale deforestation",
+    "combat deforestation"
+   ],
+   "synonyms": [
+    "forest clearance"
+   ],
+   "antonyms": [],
+   "family": [
+    "deforest",
+    "forest"
+   ],
+   "band": 7.0,
+   "topics": [
+    "environment"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_sedentary",
+   "lemma": "sedentary",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈsedntri/",
+   "meaningsVi": [
+    "ít vận động"
+   ],
+   "definitionEn": "involving a lot of sitting and little exercise",
+   "examples": [
+    "A sedentary lifestyle increases the risk of heart disease."
+   ],
+   "collocations": [
+    "sedentary lifestyle",
+    "sedentary job"
+   ],
+   "synonyms": [
+    "inactive",
+    "desk-bound"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "health"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_obsolete",
+   "lemma": "obsolete",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈɒbsəliːt/",
+   "meaningsVi": [
+    "lỗi thời"
+   ],
+   "definitionEn": "no longer used because something better exists",
+   "examples": [
+    "Typewriters have become obsolete."
+   ],
+   "collocations": [
+    "become obsolete",
+    "technologically obsolete"
+   ],
+   "synonyms": [
+    "outdated",
+    "outmoded"
+   ],
+   "antonyms": [],
+   "family": [
+    "obsolescence"
+   ],
+   "band": 7.0,
+   "topics": [
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_cutting_edge",
+   "lemma": "cutting-edge",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+   "meaningsVi": [
+    "tiên tiến nhất"
+   ],
+   "definitionEn": "using the newest ideas or methods",
+   "examples": [
+    "The lab uses cutting-edge technology to study genes."
+   ],
+   "collocations": [
+    "cutting-edge research",
+    "cutting-edge technology"
+   ],
+   "synonyms": [
+    "state-of-the-art",
+    "pioneering"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_juvenile",
+   "lemma": "juvenile",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈdʒuːvənaɪl/",
+   "meaningsVi": [
+    "(thuộc) vị thành niên"
+   ],
+   "definitionEn": "relating to young people",
+   "examples": [
+    "Juvenile crime has fallen in recent years."
+   ],
+   "collocations": [
+    "juvenile crime",
+    "juvenile offenders"
+   ],
+   "synonyms": [
+    "young",
+    "adolescent"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "crime"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_rehabilitation",
+   "lemma": "rehabilitation",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/ˌriːəˌbɪlɪˈteɪʃn/",
+   "meaningsVi": [
+    "sự phục hồi",
+    "cải tạo"
+   ],
+   "definitionEn": "the process of helping someone return to normal life",
+   "examples": [
+    "Prison should focus on rehabilitation rather than punishment."
+   ],
+   "collocations": [
+    "rehabilitation programme",
+    "drug rehabilitation"
+   ],
+   "synonyms": [
+    "recovery",
+    "reform"
+   ],
+   "antonyms": [],
+   "family": [
+    "rehabilitate"
+   ],
+   "band": 7.5,
+   "topics": [
+    "crime",
+    "health"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_elaborate",
+   "lemma": "elaborate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ɪˈlæbəreɪt/",
+   "meaningsVi": [
+    "nói rõ thêm",
+    "trình bày chi tiết"
+   ],
+   "definitionEn": "to give more detail about something",
+   "examples": [
+    "Please elaborate on your argument with an example."
+   ],
+   "collocations": [
+    "elaborate on",
+    "briefly elaborate"
+   ],
+   "synonyms": [
+    "expand on",
+    "detail"
+   ],
+   "antonyms": [],
+   "family": [
+    "elaboration"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_scrutinise",
+   "lemma": "scrutinise",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈskruːtənaɪz/",
+   "meaningsVi": [
+    "xem xét kỹ lưỡng"
+   ],
+   "definitionEn": "to examine something very carefully",
+   "examples": [
+    "Journalists should scrutinise government decisions."
+   ],
+   "collocations": [
+    "closely scrutinise",
+    "scrutinise evidence"
+   ],
+   "synonyms": [
+    "examine",
+    "inspect"
+   ],
+   "antonyms": [],
+   "family": [
+    "scrutiny"
+   ],
+   "band": 7.5,
+   "topics": [
+    "media",
+    "government"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_ubiquitous",
+   "lemma": "ubiquitous",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/juːˈbɪkwɪtəs/",
+   "meaningsVi": [
+    "có mặt khắp nơi"
+   ],
+   "definitionEn": "seeming to be everywhere",
+   "examples": [
+    "Smartphones are now ubiquitous in daily life."
+   ],
+   "collocations": [
+    "ubiquitous technology",
+    "become ubiquitous"
+   ],
+   "synonyms": [
+    "omnipresent",
+    "pervasive"
+   ],
+   "antonyms": [],
+   "family": [
+    "ubiquity"
+   ],
+   "band": 7.5,
+   "topics": [
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_affluent",
+   "lemma": "affluent",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈæfluənt/",
+   "meaningsVi": [
+    "giàu có",
+    "sung túc"
+   ],
+   "definitionEn": "having a lot of money",
+   "examples": [
+    "Affluent families can afford private tutoring."
+   ],
+   "collocations": [
+    "affluent society",
+    "affluent areas"
+   ],
+   "synonyms": [
+    "wealthy",
+    "prosperous"
+   ],
+   "antonyms": [],
+   "family": [
+    "affluence"
+   ],
+   "band": 7.0,
+   "topics": [
+    "society",
+    "economy"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_curriculum",
+   "lemma": "curriculum",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/kəˈrɪkjələm/",
+   "meaningsVi": [
+    "chương trình giảng dạy"
+   ],
+   "definitionEn": "the subjects studied in a school or course",
+   "examples": [
+    "The curriculum should include practical life skills."
+   ],
+   "collocations": [
+    "national curriculum",
+    "school curriculum"
+   ],
+   "synonyms": [
+    "syllabus",
+    "course of study"
+   ],
+   "antonyms": [],
+   "family": [
+    "curricular"
+   ],
+   "band": 6.5,
+   "topics": [
+    "education"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_literacy",
+   "lemma": "literacy",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/ˈlɪtərəsi/",
+   "meaningsVi": [
+    "khả năng đọc viết"
+   ],
+   "definitionEn": "the ability to read and write",
+   "examples": [
+    "Adult literacy programmes improve job prospects."
+   ],
+   "collocations": [
+    "digital literacy",
+    "literacy rate"
+   ],
+   "synonyms": [
+    "reading ability"
+   ],
+   "antonyms": [],
+   "family": [
+    "literate"
+   ],
+   "band": 6.5,
+   "topics": [
+    "education"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_telecommute",
+   "lemma": "telecommute",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈtelɪkəmjuːt/",
+   "meaningsVi": [
+    "làm việc từ xa"
+   ],
+   "definitionEn": "to work from home using electronic communication",
+   "examples": [
+    "More employees telecommute since the pandemic."
+   ],
+   "collocations": [
+    "telecommute from home"
+   ],
+   "synonyms": [
+    "work remotely"
+   ],
+   "antonyms": [],
+   "family": [
+    "telecommuting"
+   ],
+   "band": 7.0,
+   "topics": [
+    "work",
+    "technology"
+   ],
+   "contextSentence": null,
+   "source": {
+    "doc": "IELTS Core (Claude)",
+    "url": null
+   },
+   "audio": null
+  }
+ ],
+ "decks": [
+  {
+   "id": "d_ielts_core",
+   "name": "IELTS Core",
+   "wordIds": [
+    "w_mitigate",
+    "w_sustainable",
+    "w_consume",
+    "w_derive",
+    "w_significant",
+    "w_contribute",
+    "w_alleviate",
+    "w_exacerbate",
+    "w_detrimental",
+    "w_inevitable",
+    "w_enhance",
+    "w_implement",
+    "w_regulate",
+    "w_prioritise",
+    "w_substantial",
+    "w_unprecedented",
+    "w_phenomenon",
+    "w_foster",
+    "w_undermine",
+    "w_accessible",
+    "w_disparity",
+    "w_incentive",
+    "w_deter",
+    "w_compensate",
+    "w_comprehensive",
+    "w_restrict",
+    "w_adapt",
+    "w_prevalent",
+    "w_curb",
+    "w_integral",
+    "w_fluctuate",
+    "w_deteriorate",
+    "w_advocate",
+    "w_hinder",
+    "w_widespread",
+    "w_tackle",
+    "w_vulnerable",
+    "w_outweigh",
+    "w_rely_on",
+    "w_urbanisation",
+    "w_deforestation",
+    "w_sedentary",
+    "w_obsolete",
+    "w_cutting_edge",
+    "w_juvenile",
+    "w_rehabilitation",
+    "w_elaborate",
+    "w_scrutinise",
+    "w_ubiquitous",
+    "w_affluent",
+    "w_curriculum",
+    "w_literacy",
+    "w_telecommute"
+   ],
+   "kind": "core",
+   "group": "IELTS Core",
+   "order": 50
+  }
+ ],
+ "passages": [],
+ "writingPrompts": []
+}

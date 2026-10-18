@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="915 121 410 410" role="img" aria-label="Loli English Learning - Lo he Moc, Li he Kim">
+
+<defs>
+  <linearGradient id="leafMain" x1="0" y1="0" x2="0.87" y2="1"><stop stop-color="#9AF54A"/><stop offset="0.38" stop-color="#36DB59"/><stop offset="1" stop-color="#04AB52"/></linearGradient>
+  <linearGradient id="stemMain" x1="0.18" y1="0" x2="0.88" y2="1"><stop stop-color="#5EED4B"/><stop offset="0.44" stop-color="#21C84F"/><stop offset="1" stop-color="#078E48"/></linearGradient>
+  <linearGradient id="leafLight" x1="0.14" y1="0.1" x2="0.78" y2="1"><stop stop-color="#B8FA3E"/><stop offset="0.48" stop-color="#66E845"/><stop offset="1" stop-color="#08A95B"/></linearGradient>
+  <linearGradient id="leafDark" x1="0.15" y1="0" x2="0.87" y2="1"><stop stop-color="#5FEA35"/><stop offset="0.52" stop-color="#0AB65B"/><stop offset="1" stop-color="#047945"/></linearGradient>
+  <linearGradient id="ringGreen" x1="0.25" y1="0" x2="0.7" y2="1"><stop stop-color="#A7FA46"/><stop offset="0.34" stop-color="#5AE341"/><stop offset="0.72" stop-color="#21C957"/><stop offset="1" stop-color="#099854"/></linearGradient>
+  <linearGradient id="metal" x1="0.1" y1="0.1" x2="0.92" y2="1"><stop stop-color="#7F99CB"/><stop offset="0.23" stop-color="#ECF5FF"/><stop offset="0.47" stop-color="#F9FDFF"/><stop offset="0.7" stop-color="#D2DFF1"/><stop offset="1" stop-color="#8EA6D4"/></linearGradient>
+  <linearGradient id="metalStem" x1="0" y1="0" x2="1" y2="0.94"><stop stop-color="#819ACC"/><stop offset="0.3" stop-color="#E1ECFC"/><stop offset="0.56" stop-color="#FDFEFF"/><stop offset="0.9" stop-color="#C3D4EE"/><stop offset="1" stop-color="#7C95C1"/></linearGradient>
+  <linearGradient id="silverEdge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A0B4D8"/><stop offset="0.5" stop-color="#FCFEFF"/><stop offset="1" stop-color="#9CAED3"/></linearGradient>
+  <radialGradient id="silverOrb" cx="0.33" cy="0.25" r="0.86"><stop stop-color="#FFFFFF"/><stop offset="0.22" stop-color="#F3F8FF"/><stop offset="0.58" stop-color="#CBDAF3"/><stop offset="0.86" stop-color="#91A7D1"/><stop offset="1" stop-color="#7892C3"/></radialGradient>
+  <linearGradient id="blueIcon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D5F5"/><stop offset="0.36" stop-color="#149CFA"/><stop offset="0.7" stop-color="#0870F9"/><stop offset="1" stop-color="#0050EC"/></linearGradient>
+  <linearGradient id="cloudBlue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9BE9FF" stop-opacity="0.7"/><stop offset="1" stop-color="#25A6FF" stop-opacity="0.25"/></linearGradient>
+  <radialGradient id="faceWhite" cx="0.47" cy="0.32" r="0.88"><stop stop-color="#FFFFFF"/><stop offset="0.62" stop-color="#FBFEFF"/><stop offset="0.87" stop-color="#DAE8FF"/><stop offset="1" stop-color="#91BDFB"/></radialGradient>
+  <linearGradient id="bookYellow" x1="0" y1="0" x2="0.85" y2="1"><stop stop-color="#FFE924"/><stop offset="0.5" stop-color="#FFC813"/><stop offset="1" stop-color="#FF990E"/></linearGradient>
+  <linearGradient id="bookRight" x1="0" y1="0" x2="0.94" y2="1"><stop stop-color="#FFE927"/><stop offset="0.6" stop-color="#FFCF1D"/><stop offset="1" stop-color="#FF9F10"/></linearGradient>
+  <linearGradient id="coral" x1="0" y1="0" x2="0.95" y2="1"><stop stop-color="#FF6C45"/><stop offset="1" stop-color="#FF8858"/></linearGradient>
+  <linearGradient id="limeSwatch" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#90EB37"/><stop offset="1" stop-color="#B3FC59"/></linearGradient>
+  <linearGradient id="greenSwatch" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16D966"/><stop offset="1" stop-color="#21C96A"/></linearGradient>
+  <linearGradient id="sunSwatch" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFCD14"/><stop offset="1" stop-color="#FFE037"/></linearGradient>
+  <linearGradient id="silverSwatch" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#CDDAEF"/><stop offset="1" stop-color="#E1E9F6"/></linearGradient>
+  <linearGradient id="navySwatch" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1D3F"/><stop offset="0.65" stop-color="#162D52"/><stop offset="1" stop-color="#07162F"/></linearGradient>
+  <linearGradient id="yellowRay" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFE42A"/><stop offset="1" stop-color="#FFB90E"/></linearGradient>
+  <filter id="softShadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="8" result="blur"/><feOffset dx="1" dy="8" result="off"/><feComponentTransfer in="off" result="opacity"><feFuncA type="linear" slope="0.15"/></feComponentTransfer><feMerge><feMergeNode in="opacity"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="iconShadow" x="-20%" y="-20%" width="150%" height="165%"><feGaussianBlur in="SourceAlpha" stdDeviation="11" result="blur"/><feOffset dx="0" dy="9" result="off"/><feComponentTransfer in="off" result="opacity"><feFuncA type="linear" slope="0.22"/></feComponentTransfer><feMerge><feMergeNode in="opacity"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="tinyShadow" x="-50%" y="-50%" width="200%" height="210%"><feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"/><feOffset dx="0" dy="3" result="off"/><feComponentTransfer in="off" result="opacity"><feFuncA type="linear" slope="0.2"/></feComponentTransfer><feMerge><feMergeNode in="opacity"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="appClip"><rect x="915" y="121" width="410" height="410"/></clipPath>
+</defs>
+
+<g id="loli-app-icon-vector" aria-label="Biểu tượng app Loli, mầm cây và sách học tiếng Anh">
+ <rect x="915" y="121" width="410" height="410" fill="url(#blueIcon)"/>
+ <g clip-path="url(#appClip)">
+   <path d="M914 296 C946 262 979 273 975 329 C1004 317 1024 350 1022 382 C991 418 937 409 916 396Z" fill="url(#cloudBlue)" opacity=".82"/>
+   <path d="M1326 303 C1294 302 1261 323 1264 360 C1257 375 1240 380 1210 376 L1327 421Z" fill="#52BEFF" opacity=".44"/>
+   <path d="M1096 154 C1157 131 1280 137 1324 180 L1325 130 L916 128 L916 161 C967 148 1038 143 1096 154Z" fill="#55D8FC" opacity=".18"/>
+   <!-- fresh two-leaf sprout, recalling Lo Wood -->
+   <path d="M1049 244 C1014 240 985 221 964 222 C975 255 1000 264 1040 255Z" fill="url(#leafLight)"/>
+   <path d="M1045 238 C1040 192 1070 162 1108 158 C1116 195 1104 221 1070 239Z" fill="url(#leafLight)"/>
+   <path d="M1046 238 Q1072 209 1103 162" fill="none" stroke="#099D55" stroke-width="3" opacity=".65"/>
+   <path d="M1041 248 C1010 243 989 235 970 223" stroke="#0CA85D" stroke-width="3" fill="none" opacity=".5"/>
+   <!-- back silhouette and head -->
+   <path d="M1042 241 C1079 213 1126 209 1169 222 C1215 232 1240 271 1240 311 C1244 357 1218 390 1179 401 C1138 419 1062 413 1027 394 C1008 381 994 355 996 325 C995 291 1009 262 1042 241Z" fill="#93C1FF" opacity=".57"/>
+   <path d="M1044 243 C1080 217 1127 210 1166 223 C1210 235 1239 269 1240 310 C1240 362 1207 389 1167 398 C1125 411 1069 404 1038 385 C1015 373 1000 347 1000 317 C1000 283 1016 261 1044 243Z" fill="url(#faceWhite)"/>
+   <path d="M1028 285 C1045 245 1095 230 1140 230" fill="none" stroke="#FFFFFF" stroke-opacity=".7" stroke-width="6" stroke-linecap="round"/>
+   <!-- face -->
+   <path d="M1067 327 C1067 310 1080 301 1092 304 C1101 306 1107 311 1110 318" stroke="#0D1F4F" stroke-width="13" stroke-linecap="round" fill="none"/>
+   <path d="M1167 303 C1169 288 1180 280 1192 283 C1201 286 1204 293 1207 297" stroke="#0D1F4F" stroke-width="13" stroke-linecap="round" fill="none"/>
+   <ellipse cx="1064" cy="354" rx="17" ry="12" fill="#FFA79B"/>
+   <ellipse cx="1216" cy="316" rx="15" ry="12" fill="#FFA79B"/>
+   <path d="M1120 329 C1130 320 1153 320 1162 329 C1166 344 1158 354 1147 356 C1135 360 1122 344 1120 329Z" fill="#B52F4B"/>
+   <path d="M1126 343 C1138 336 1152 338 1158 348 C1143 363 1133 354 1126 343Z" fill="#FF7674"/>
+   <!-- white book pages under the yellow covers -->
+   <path d="M976 350 C1035 355 1083 370 1118 409 C1143 369 1198 357 1266 354 L1272 403 C1209 398 1163 409 1124 439 C1080 404 1022 393 979 388Z" fill="#FAFBFF"/>
+   <path d="M976 354 C1045 364 1085 390 1116 421" stroke="#C9DEFA" stroke-width="4" stroke-linecap="round" fill="none"/>
+   <path d="M1264 357 C1191 376 1155 399 1124 422" stroke="#D7E7FF" stroke-width="4" stroke-linecap="round" fill="none"/>
+   <!-- left book cover -->
+   <path d="M960 370 C1014 372 1081 386 1118 422 L1117 518 C1083 500 1036 490 987 483 C975 479 970 448 965 425 C961 404 957 385 960 370Z" fill="url(#bookYellow)"/>
+   <path d="M964 373 C1039 383 1080 403 1118 430" stroke="#FFEF51" stroke-width="13" stroke-linecap="round" fill="none"/>
+   <!-- right book cover -->
+   <path d="M1120 424 C1163 390 1231 372 1281 367 C1276 403 1270 458 1263 480 C1210 490 1167 499 1122 519Z" fill="url(#bookRight)"/>
+   <path d="M1123 432 C1173 395 1234 380 1279 375" stroke="#FFF25A" stroke-width="12" stroke-linecap="round" fill="none"/>
+   <path d="M1112 428 Q1122 419 1131 427 L1139 516 Q1124 526 1107 517Z" fill="#FFA31A"/>
+   <path d="M1118 432 Q1121 465 1119 515" stroke="#FFE68A" stroke-width="3" fill="none"/>
+   <!-- white hands -->
+   <ellipse cx="978" cy="443" rx="28" ry="32" fill="url(#faceWhite)"/>
+   <ellipse cx="1258" cy="444" rx="27" ry="32" fill="url(#faceWhite)"/>
+   <!-- cheerful symbols -->
+   <g fill="url(#yellowRay)">
+    <rect x="1196" y="167" width="22" height="54" rx="11" transform="rotate(18 1207 194)"/>
+    <rect x="1232" y="189" width="21" height="47" rx="10" transform="rotate(47 1242 213)"/>
+   </g>
+   <path d="M1273 235 C1278 252 1281 253 1295 259 C1280 264 1277 271 1273 286 C1268 268 1262 263 1250 259 C1264 255 1267 250 1273 235Z" fill="#FFFFFF"/>
+   <path d="M1296 236 L1296 283" stroke="#E8FFFF" stroke-width="1.4" opacity=".4"/>
+ </g>
+</g>
+</svg>

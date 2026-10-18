@@ -1,0 +1,692 @@
+{
+ "schema": 1,
+ "id": "sample-2026-W42-urban-heat",
+ "version": 1,
+ "title": "Mẫu: Cooling the Concrete City",
+ "createdAt": "2026-10-18",
+ "visibility": "members",
+ "words": [
+  {
+   "id": "w_canopy",
+   "lemma": "canopy",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/ˈkænəpi/",
+   "meaningsVi": [
+    "tán cây"
+   ],
+   "definitionEn": "the layer of branches and leaves formed by the tops of trees",
+   "examples": [
+    "The park's dense canopy keeps the paths cool in summer."
+   ],
+   "collocations": [
+    "tree canopy",
+    "forest canopy"
+   ],
+   "synonyms": [
+    "cover"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "environment"
+   ],
+   "contextSentence": "A mature tree can reduce the temperature of the air beneath it by several degrees, and a continuous canopy along a street can lower surface temperatures even more.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_remedy",
+   "lemma": "remedy",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/ˈremədi/",
+   "meaningsVi": [
+    "biện pháp khắc phục"
+   ],
+   "definitionEn": "a way of solving a problem",
+   "examples": [
+    "Cutting car use is one remedy for air pollution."
+   ],
+   "collocations": [
+    "a simple remedy",
+    "remedy for"
+   ],
+   "synonyms": [
+    "solution",
+    "cure"
+   ],
+   "antonyms": [],
+   "family": [
+    "remedial"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": "Planting trees is the most widely discussed remedy.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_imitate",
+   "lemma": "imitate",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ˈɪmɪteɪt/",
+   "meaningsVi": [
+    "bắt chước",
+    "mô phỏng"
+   ],
+   "definitionEn": "to copy the way something looks or works",
+   "examples": [
+    "Artificial lakes cannot imitate the cooling effect of real wetlands."
+   ],
+   "collocations": [
+    "imitate nature"
+   ],
+   "synonyms": [
+    "copy",
+    "mimic"
+   ],
+   "antonyms": [],
+   "family": [
+    "imitation"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": "Dark roofs make the problem worse, and so does the lack of vegetation: plants cool the air by releasing water vapour, a process that paved surfaces cannot imitate.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_shed",
+   "lemma": "shed",
+   "pos": [
+    "v"
+   ],
+   "ipa": "/ʃed/",
+   "meaningsVi": [
+    "toả ra",
+    "thải bỏ"
+   ],
+   "definitionEn": "to lose or get rid of something",
+   "examples": [
+    "Light-coloured buildings shed heat more quickly at night."
+   ],
+   "collocations": [
+    "shed heat",
+    "shed weight"
+   ],
+   "synonyms": [
+    "lose",
+    "discard"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "environment"
+   ],
+   "contextSentence": "Elderly residents of dense inner-city districts were especially vulnerable, because their apartments, often on upper floors under dark roofs, could not shed heat at night.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_subsidy",
+   "lemma": "subsidy",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/ˈsʌbsədi/",
+   "meaningsVi": [
+    "khoản trợ cấp"
+   ],
+   "definitionEn": "money given by a government to help an activity or industry",
+   "examples": [
+    "Farmers receive a subsidy for planting hedges."
+   ],
+   "collocations": [
+    "government subsidy",
+    "receive a subsidy"
+   ],
+   "synonyms": [
+    "grant",
+    "funding"
+   ],
+   "antonyms": [],
+   "family": [
+    "subsidise"
+   ],
+   "band": 7.0,
+   "topics": [
+    "government",
+    "economy"
+   ],
+   "contextSentence": "Residents in the hottest areas are offered subsidies to repaint their roofs.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_glare",
+   "lemma": "glare",
+   "pos": [
+    "n"
+   ],
+   "ipa": "/ɡleə/",
+   "meaningsVi": [
+    "ánh chói"
+   ],
+   "definitionEn": "strong, unpleasantly bright light",
+   "examples": [
+    "Drivers complained about the glare from the glass tower."
+   ],
+   "collocations": [
+    "reduce glare",
+    "sun glare"
+   ],
+   "synonyms": [
+    "dazzle"
+   ],
+   "antonyms": [],
+   "family": [],
+   "band": 7.0,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": "Reflective surfaces can create glare for pedestrians and, in winter, reduce the useful heat that buildings capture from the sun.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_modest",
+   "lemma": "modest",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈmɒdɪst/",
+   "meaningsVi": [
+    "khiêm tốn",
+    "vừa phải"
+   ],
+   "definitionEn": "not very large in size, amount or value",
+   "examples": [
+    "The scheme brought a modest improvement in air quality."
+   ],
+   "collocations": [
+    "modest increase",
+    "modest income"
+   ],
+   "synonyms": [
+    "limited",
+    "moderate"
+   ],
+   "antonyms": [],
+   "family": [
+    "modesty"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general",
+    "graph"
+   ],
+   "contextSentence": "It is a modest figure, but experts consider it proof that deliberate planning can slow, if not reverse, a trend that was once regarded as unavoidable.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_unavoidable",
+   "lemma": "unavoidable",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˌʌnəˈvɔɪdəbl/",
+   "meaningsVi": [
+    "không thể tránh khỏi"
+   ],
+   "definitionEn": "impossible to prevent from happening",
+   "examples": [
+    "Some delays were unavoidable during the construction."
+   ],
+   "collocations": [
+    "unavoidable consequence"
+   ],
+   "synonyms": [
+    "inevitable"
+   ],
+   "antonyms": [],
+   "family": [
+    "avoid",
+    "avoidable"
+   ],
+   "band": 7.0,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": "It is a modest figure, but experts consider it proof that deliberate planning can slow, if not reverse, a trend that was once regarded as unavoidable.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_consistently",
+   "lemma": "consistently",
+   "pos": [
+    "adv"
+   ],
+   "ipa": "/kənˈsɪstəntli/",
+   "meaningsVi": [
+    "một cách nhất quán",
+    "đều đặn"
+   ],
+   "definitionEn": "always or regularly in the same way",
+   "examples": [
+    "Students who revise consistently achieve better results."
+   ],
+   "collocations": [
+    "consistently high",
+    "consistently good"
+   ],
+   "synonyms": [
+    "steadily",
+    "regularly"
+   ],
+   "antonyms": [],
+   "family": [
+    "consistent",
+    "consistency"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": "Yet within a few decades, observers noticed that the centre of the capital was consistently warmer than the surrounding countryside, sometimes by as much as five degrees.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  },
+  {
+   "id": "w_meaningful",
+   "lemma": "meaningful",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈmiːnɪŋfl/",
+   "meaningsVi": [
+    "có ý nghĩa",
+    "đáng kể"
+   ],
+   "definitionEn": "serious, important or worth having",
+   "examples": [
+    "Small gestures can make a meaningful difference."
+   ],
+   "collocations": [
+    "meaningful change",
+    "meaningful difference"
+   ],
+   "synonyms": [
+    "significant",
+    "worthwhile"
+   ],
+   "antonyms": [],
+   "family": [
+    "meaning"
+   ],
+   "band": 6.5,
+   "topics": [
+    "general"
+   ],
+   "contextSentence": "However, trees take decades to reach full size, and many cities lack the space to plant them in meaningful numbers.",
+   "source": {
+    "doc": "Cooling the Concrete City (bài mẫu gốc)",
+    "url": null
+   },
+   "audio": null
+  }
+ ],
+ "decks": [
+  {
+   "id": "d_urban_heat",
+   "name": "Reading: Cooling the Concrete City",
+   "wordIds": [
+    "w_canopy",
+    "w_remedy",
+    "w_imitate",
+    "w_shed",
+    "w_subsidy",
+    "w_glare",
+    "w_modest",
+    "w_unavoidable",
+    "w_consistently",
+    "w_meaningful"
+   ],
+   "kind": "reading",
+   "group": "Bài đọc",
+   "order": 5
+  }
+ ],
+ "passages": [
+  {
+   "id": "p_urban_heat",
+   "title": "Cooling the Concrete City",
+   "topic": "environment",
+   "source": {
+    "doc": "Bài mẫu do Claude viết (nội dung gốc, dùng tự do)",
+    "url": null,
+    "license": "Original",
+    "author": "Claude"
+   },
+   "adapted": false,
+   "body": [
+    "When the first thermometers were installed in London in the early nineteenth century, nobody expected them to reveal anything unusual about the city itself. Yet within a few decades, observers noticed that the centre of the capital was consistently warmer than the surrounding countryside, sometimes by as much as five degrees. This difference, now known as the urban heat island effect, has become one of the most studied features of modern cities.",
+    "The explanation is largely a matter of materials. Concrete, brick and asphalt absorb heat during the day and release it slowly after dark, which means that city streets often remain uncomfortably warm long after the sun has set. Dark roofs make the problem worse, and so does the lack of vegetation: plants cool the air by releasing water vapour, a process that paved surfaces cannot imitate. Heat from air conditioners, vehicles and industrial equipment adds further warmth.",
+    "For most of the twentieth century, planners treated this as a minor inconvenience. That attitude changed after the heatwave of 2003, which is estimated to have caused more than seventy thousand deaths across Europe. Elderly residents of dense inner-city districts were especially vulnerable, because their apartments, often on upper floors under dark roofs, could not shed heat at night. Since then, researchers have shown that the temperature gap between a city and its suburbs can double the risk of heat-related illness during extreme weather.",
+    "Planting trees is the most widely discussed remedy. A mature tree can reduce the temperature of the air beneath it by several degrees, and a continuous canopy along a street can lower surface temperatures even more. Trees also absorb rainwater, which reduces flooding, and they filter fine particles from the air. However, trees take decades to reach full size, and many cities lack the space to plant them in meaningful numbers. In some districts, underground cables and pipes make planting impossible.",
+    "Where trees cannot be planted, engineers have turned to the surfaces themselves. Reflective or 'cool' roofs, painted white or covered with light-coloured membranes, send most sunlight back into the sky instead of absorbing it. A trial in one southern European city found that buildings with such roofs were up to three degrees cooler inside during summer, which cut electricity use for cooling by about a fifth. Green roofs, planted with grass and shallow-rooted plants, work in a similar way but cost considerably more to install and maintain.",
+    "Critics point out that no single measure is enough. Reflective surfaces can create glare for pedestrians and, in winter, reduce the useful heat that buildings capture from the sun. Green roofs need regular watering, which is a problem in regions already short of water. Some researchers therefore argue that city governments should focus less on individual technologies and more on redesigning neighbourhoods as a whole, with wider streets for airflow, shaded public squares and open spaces connected by corridors of vegetation.",
+    "The cities that have made most progress share one feature: they set clear targets and measure results. One Asian metropolis now publishes a heat map of every district each summer, and uses it to decide where to plant trees first. Residents in the hottest areas are offered subsidies to repaint their roofs. Within eight years, the average summer night temperature in those districts fell by almost one degree. It is a modest figure, but experts consider it proof that deliberate planning can slow, if not reverse, a trend that was once regarded as unavoidable."
+   ],
+   "timeLimitMin": 20,
+   "questions": [
+    {
+     "id": "q_u1_01",
+     "number": 1,
+     "type": "matchingHeadings",
+     "prompt": "Chọn tiêu đề phù hợp cho đoạn B.",
+     "options": [
+      "i. Health risks that changed official attitudes",
+      "ii. The science behind warm streets",
+      "iii. Greenery as the preferred solution, and its limits",
+      "iv. Lighter surfaces as an alternative",
+      "v. A comparison of costs between two types of roof",
+      "vi. Rising electricity bills in modern cities"
+     ],
+     "answer": [
+      "ii"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 2,
+      "text": "The explanation is largely a matter of materials."
+     },
+     "explanation": "Đoạn B giải thích vì sao đường phố nóng: do vật liệu (bê tông, nhựa đường) hấp thụ và toả nhiệt. Đó là 'khoa học đằng sau những con phố nóng'.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_02",
+     "number": 2,
+     "type": "matchingHeadings",
+     "prompt": "Chọn tiêu đề phù hợp cho đoạn C.",
+     "options": [
+      "i. Health risks that changed official attitudes",
+      "ii. The science behind warm streets",
+      "iii. Greenery as the preferred solution, and its limits",
+      "iv. Lighter surfaces as an alternative",
+      "v. A comparison of costs between two types of roof",
+      "vi. Rising electricity bills in modern cities"
+     ],
+     "answer": [
+      "i"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 3,
+      "text": "That attitude changed after the heatwave of 2003, which is estimated to have caused more than seventy thousand deaths across Europe."
+     },
+     "explanation": "Đoạn C nói về đợt nắng nóng 2003 làm thay đổi thái độ của các nhà quy hoạch vì rủi ro sức khoẻ.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_03",
+     "number": 3,
+     "type": "matchingHeadings",
+     "prompt": "Chọn tiêu đề phù hợp cho đoạn D.",
+     "options": [
+      "i. Health risks that changed official attitudes",
+      "ii. The science behind warm streets",
+      "iii. Greenery as the preferred solution, and its limits",
+      "iv. Lighter surfaces as an alternative",
+      "v. A comparison of costs between two types of roof",
+      "vi. Rising electricity bills in modern cities"
+     ],
+     "answer": [
+      "iii"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 4,
+      "text": "However, trees take decades to reach full size, and many cities lack the space to plant them in meaningful numbers."
+     },
+     "explanation": "Đoạn D nói trồng cây là giải pháp được bàn nhiều nhất, nhưng cũng nêu hạn chế (lâu lớn, thiếu chỗ).",
+     "verified": true
+    },
+    {
+     "id": "q_u1_04",
+     "number": 4,
+     "type": "matchingHeadings",
+     "prompt": "Chọn tiêu đề phù hợp cho đoạn E.",
+     "options": [
+      "i. Health risks that changed official attitudes",
+      "ii. The science behind warm streets",
+      "iii. Greenery as the preferred solution, and its limits",
+      "iv. Lighter surfaces as an alternative",
+      "v. A comparison of costs between two types of roof",
+      "vi. Rising electricity bills in modern cities"
+     ],
+     "answer": [
+      "iv"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 5,
+      "text": "Where trees cannot be planted, engineers have turned to the surfaces themselves."
+     },
+     "explanation": "Đoạn E chuyển sang mái nhà phản xạ sáng màu. Tiêu đề v (so sánh chi phí) chỉ là một chi tiết nhỏ, không phải ý chính; vi không được nhắc tới.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_05",
+     "number": 5,
+     "type": "tfng",
+     "prompt": "Ở London, trung tâm thành phố được ghi nhận nóng hơn vùng nông thôn xung quanh vào thế kỷ XIX.",
+     "options": [],
+     "answer": [
+      "TRUE"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 1,
+      "text": "within a few decades, observers noticed that the centre of the capital was consistently warmer than the surrounding countryside"
+     },
+     "explanation": "Bài nêu rõ người quan sát thấy trung tâm thủ đô luôn nóng hơn vùng quê xung quanh, chỉ vài thập kỷ sau khi có nhiệt kế đầu thế kỷ XIX.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_06",
+     "number": 6,
+     "type": "tfng",
+     "prompt": "Máy điều hoà là nguyên nhân chính gây ra hiệu ứng đảo nhiệt đô thị.",
+     "options": [],
+     "answer": [
+      "FALSE"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 2,
+      "text": "The explanation is largely a matter of materials."
+     },
+     "explanation": "Bài nói nguyên nhân chủ yếu là vật liệu; nhiệt từ máy điều hoà chỉ 'thêm hơi ấm' (adds further warmth). Bẫy: nhầm nguyên nhân phụ thành nguyên nhân chính.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_07",
+     "number": 7,
+     "type": "tfng",
+     "prompt": "Đợt nắng nóng năm 2003 gây ra nhiều ca tử vong ở châu Âu hơn bất kỳ đợt nắng nóng nào trước đó.",
+     "options": [],
+     "answer": [
+      "NOT GIVEN"
+     ],
+     "wordLimit": null,
+     "evidence": null,
+     "explanation": "Bài chỉ nêu con số ước tính hơn 70.000 ca tử vong, không so sánh với các đợt nắng nóng trước. Không có thông tin để kết luận đúng hay sai.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_08",
+     "number": 8,
+     "type": "tfng",
+     "prompt": "Mái nhà xanh (green roof) tốn ít chi phí bảo trì hơn mái nhà phản xạ.",
+     "options": [],
+     "answer": [
+      "FALSE"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 5,
+      "text": "work in a similar way but cost considerably more to install and maintain"
+     },
+     "explanation": "Bài nói mái xanh tốn kém hơn nhiều để lắp đặt và bảo trì, nên khẳng định trong câu hỏi là sai.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_09",
+     "number": 9,
+     "type": "mcq",
+     "prompt": "Theo đoạn D, vì sao việc trồng cây khó thực hiện ở một số khu vực?",
+     "options": [
+      "A. Chi phí quá cao với chính quyền địa phương",
+      "B. Không gian bị cáp và đường ống ngầm chiếm",
+      "C. Người dân phản đối ý tưởng này",
+      "D. Cây chết vì không khí ô nhiễm"
+     ],
+     "answer": [
+      "B"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 4,
+      "text": "underground cables and pipes make planting impossible"
+     },
+     "explanation": "Đoạn D nói ở một số khu vực, cáp và đường ống ngầm khiến việc trồng cây không thể thực hiện.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_10",
+     "number": 10,
+     "type": "mcq",
+     "prompt": "Đoạn F cho biết một số nhà nghiên cứu đề xuất điều gì?",
+     "options": [
+      "A. Cấm các vật liệu tối màu",
+      "B. Ưu tiên thiết kế lại toàn bộ khu phố",
+      "C. Thay mái nhà xanh bằng mái phản xạ",
+      "D. Giảm sưởi ấm vào mùa đông"
+     ],
+     "answer": [
+      "B"
+     ],
+     "wordLimit": null,
+     "evidence": {
+      "paragraph": 6,
+      "text": "city governments should focus less on individual technologies and more on redesigning neighbourhoods as a whole"
+     },
+     "explanation": "Họ cho rằng nên tập trung vào thiết kế lại cả khu phố thay vì từng công nghệ riêng lẻ.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_11",
+     "number": 11,
+     "type": "sentenceCompletion",
+     "prompt": "Cây làm mát không khí bằng cách thải ra ______, điều mà bề mặt lát không làm được.",
+     "options": [],
+     "answer": [
+      "water vapour"
+     ],
+     "wordLimit": 2,
+     "evidence": {
+      "paragraph": 2,
+      "text": "plants cool the air by releasing water vapour"
+     },
+     "explanation": "Từ cần điền nằm ngay trong đoạn B: 'releasing water vapour'.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_12",
+     "number": 12,
+     "type": "sentenceCompletion",
+     "prompt": "Mái phản xạ được sơn trắng hoặc phủ ______ sáng màu.",
+     "options": [],
+     "answer": [
+      "membranes"
+     ],
+     "wordLimit": 2,
+     "evidence": {
+      "paragraph": 5,
+      "text": "painted white or covered with light-coloured membranes"
+     },
+     "explanation": "Đoạn E: 'covered with light-coloured membranes'.",
+     "verified": true
+    },
+    {
+     "id": "q_u1_13",
+     "number": 13,
+     "type": "sentenceCompletion",
+     "prompt": "Ở thành phố châu Á được nhắc tới, cư dân ở khu nóng nhất được nhận ______ để sơn lại mái nhà.",
+     "options": [],
+     "answer": [
+      "subsidies"
+     ],
+     "wordLimit": 2,
+     "evidence": {
+      "paragraph": 7,
+      "text": "Residents in the hottest areas are offered subsidies to repaint their roofs."
+     },
+     "explanation": "Đoạn G: 'are offered subsidies to repaint their roofs'.",
+     "verified": true
+    }
+   ]
+  }
+ ],
+ "writingPrompts": [
+  {
+   "id": "wp_urban_heat",
+   "task": "task2",
+   "type": "discussion",
+   "text": "Some people believe that city governments should spend public money on planting trees and creating parks, while others think the budget should go to improving public transport. Discuss both views and give your opinion.",
+   "image": null,
+   "sampleAnswer": "Cities face many competing demands on their budgets. While some people argue that parks and trees deserve priority, others believe that public transport should come first. In my opinion, both matter, but a balanced approach that favours transport in the short term is more realistic.\n\nSupporters of green spaces make a strong case. Trees absorb pollution, reduce flooding and lower summer temperatures, which can protect vulnerable residents during heatwaves. Parks also give people somewhere to exercise and relax, and this improves both physical and mental health. Moreover, these benefits are long-lasting, because a mature tree continues to serve the community for decades.\n\nOn the other hand, efficient public transport addresses problems that are more urgent for many commuters. Frequent buses and trains reduce traffic congestion, cut carbon emissions and make cities accessible to people who cannot afford a car. For a worker on a low income, a reliable bus route can mean access to better jobs, which is a significant social benefit that a park cannot provide.\n\nPersonally, I believe that transport deserves a larger share of funding at first, because it changes daily life immediately and reduces the number of cars that cause pollution in the first place. However, governments should not neglect greenery. Even modest investment, such as planting trees along new bus routes, can combine the advantages of both approaches.\n\nIn conclusion, although green spaces bring lasting environmental and health benefits, I think public transport should be the first priority, supported by smaller but steady spending on trees and parks.",
+   "notes": "Mở bài: paraphrase đề + nêu quan điểm. Thân bài 1: lợi ích cây xanh. Thân bài 2: lợi ích giao thông công cộng. Thân bài 3: quan điểm cá nhân + giải pháp kết hợp. Kết bài ngắn."
+  }
+ ]
+}
