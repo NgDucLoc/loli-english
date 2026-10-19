@@ -1,0 +1,2767 @@
+{
+ "schema": 1,
+ "id": "grammar-urban-heat",
+ "version": 1,
+ "title": "Ngữ pháp – Cooling the Concrete City",
+ "createdAt": "2026-10-19",
+ "visibility": "members",
+ "words": [],
+ "decks": [],
+ "passages": [],
+ "writingPrompts": [],
+ "grammar": [
+  {
+   "id": "gp_impersonal_passive_perfect",
+   "key": "S + be + V_pp (estimated/believed/thought/said) + to have + V_pp",
+   "name": "Bị động khách quan nói về quá khứ (Impersonal passive + perfect infinitive)",
+   "formula": "S + am/is/are + V_pp (estimated/believed/thought/said/reported) + to have + V_pp\nS + am/is/are + V_pp + to have been + V_pp  (bị động)\n= It + is + V_pp + that + S + V_ed",
+   "meaningVi": "Đưa ra ước tính, nhận định chung về một sự việc ĐÃ xảy ra mà không cần nói ai đưa ra — văn phong khách quan, rất hợp Writing Task 1, Task 2 và bài báo khoa học.",
+   "notes": "Dùng \"to have + V_pp\" khi sự việc xảy ra TRƯỚC thời điểm nhận định; sự việc ở hiện tại/tương lai dùng \"to + V\". Nếu chủ ngữ chịu tác động: \"to have been + V_pp\".",
+   "examples": [
+    {
+     "en": "That attitude changed after the heatwave of 2003, which is estimated to have caused more than seventy thousand deaths across Europe.",
+     "vi": "Thái độ đó thay đổi sau đợt nắng nóng năm 2003, đợt nắng nóng được ước tính đã gây ra hơn bảy mươi nghìn ca tử vong khắp châu Âu.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "Deforestation is thought to have contributed to the decline of several bird species.",
+     "vi": "Nạn phá rừng được cho là đã góp phần làm suy giảm một số loài chim."
+    },
+    {
+     "en": "The ancient city is believed to have been abandoned around 500 BC.",
+     "vi": "Thành phố cổ được cho là đã bị bỏ hoang vào khoảng năm 500 TCN."
+    }
+   ],
+   "confusedWith": [
+    "S + am/is/are + V_pp + to_V",
+    "It + is + V_pp + that + Clause"
+   ],
+   "band": 7.0,
+   "group": "Ngữ pháp từ bài đọc",
+   "subgroup": "Cooling the Concrete City",
+   "source": {
+    "doc": "Cooling the Concrete City",
+    "url": null
+   },
+   "exercises": [
+    {
+     "id": "gp_impersonal_passive_perfect_fill_01",
+     "type": "fill",
+     "prompt": "The Industrial Revolution is thought ___ the first large-scale increase in carbon emissions.",
+     "base": "(cause)",
+     "answer": [
+      "to have caused"
+     ],
+     "explanation": "Sự việc ở quá khứ, nhận định ở hiện tại → is thought + to have + V_pp."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_fill_02",
+     "type": "fill",
+     "prompt": "The drought is believed ___ thousands of farmers to leave the region in the last decade.",
+     "base": "(force)",
+     "answer": [
+      "to have forced"
+     ],
+     "explanation": "\"in the last decade\" là quá khứ → to have forced."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_fill_03",
+     "type": "fill",
+     "prompt": "Around 40 per cent of the forest is estimated ___ between 1990 and 2020.",
+     "base": "(disappear)",
+     "answer": [
+      "to have disappeared"
+     ],
+     "explanation": "Khoảng thời gian đã qua (1990–2020) → to have + V_pp."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_fill_04",
+     "type": "fill",
+     "prompt": "The new congestion charge is reported ___ car use in the city centre by a quarter.",
+     "base": "(reduce)",
+     "answer": [
+      "to have reduced"
+     ],
+     "explanation": "Kết quả đã đạt được → to have reduced."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_fill_05",
+     "type": "fill",
+     "prompt": "Many ancient manuscripts are said ___ in the fire of 1731.",
+     "base": "(destroy)",
+     "answer": [
+      "to have been destroyed"
+     ],
+     "explanation": "Bản thảo bị phá huỷ (bị động) trong quá khứ → to have been + V_pp."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_error_01",
+     "type": "error",
+     "prompt": "The policy is believed to have help more than two million low-income families.",
+     "wrong": "to have help",
+     "fix": [
+      "to have helped"
+     ],
+     "answer": [
+      "The policy is believed to have helped more than two million low-income families."
+     ],
+     "explanation": "Sau \"to have\" phải là V_pp: helped."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_error_02",
+     "type": "error",
+     "prompt": "The earthquake is estimated to has damaged over ten thousand homes.",
+     "wrong": "to has damaged",
+     "fix": [
+      "to have damaged"
+     ],
+     "answer": [
+      "The earthquake is estimated to have damaged over ten thousand homes."
+     ],
+     "explanation": "Sau \"to\" luôn là dạng nguyên mẫu: to have (không \"to has\")."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_error_03",
+     "type": "error",
+     "prompt": "The species is thought to have became extinct in the late nineteenth century.",
+     "wrong": "to have became",
+     "fix": [
+      "to have become"
+     ],
+     "answer": [
+      "The species is thought to have become extinct in the late nineteenth century."
+     ],
+     "explanation": "V_pp của become là become, không phải became."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_error_04",
+     "type": "error",
+     "prompt": "Air pollution is estimated to have cause around four million premature deaths in 2019.",
+     "wrong": "to have cause",
+     "fix": [
+      "to have caused"
+     ],
+     "answer": [
+      "Air pollution is estimated to have caused around four million premature deaths in 2019."
+     ],
+     "explanation": "to have + V_pp: caused."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_error_05",
+     "type": "error",
+     "prompt": "The bridge is said to have built by Roman engineers almost two thousand years ago.",
+     "wrong": "to have built",
+     "fix": [
+      "to have been built"
+     ],
+     "answer": [
+      "The bridge is said to have been built by Roman engineers almost two thousand years ago."
+     ],
+     "explanation": "Cây cầu được xây (bị động) → to have been built."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_transform_01",
+     "type": "transform",
+     "prompt": "Experts estimate that the flood destroyed more than 500 homes.",
+     "instruction": "Viết lại, bắt đầu bằng \"The flood\"",
+     "starter": "The flood",
+     "answer": [
+      "The flood is estimated to have destroyed more than 500 homes."
+     ],
+     "hints": [
+      {
+       "vi": "được ước tính",
+       "en": "is estimated"
+      },
+      {
+       "vi": "phá huỷ",
+       "en": "destroyed"
+      },
+      {
+       "vi": "ngôi nhà",
+       "en": "homes"
+      }
+     ],
+     "explanation": "Chủ ngữ mệnh đề that lên đầu + is estimated + to have + V_pp."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_transform_02",
+     "type": "transform",
+     "prompt": "People believe that the first universities appeared in North Africa and the Middle East.",
+     "instruction": "Viết lại, bắt đầu bằng \"The first universities\"",
+     "starter": "The first universities",
+     "answer": [
+      "The first universities are believed to have appeared in North Africa and the Middle East."
+     ],
+     "hints": [
+      {
+       "vi": "được cho là",
+       "en": "are believed"
+      },
+      {
+       "vi": "xuất hiện",
+       "en": "appeared"
+      }
+     ],
+     "explanation": "Chủ ngữ số nhiều → are believed; sự việc quá khứ → to have appeared."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_transform_03",
+     "type": "transform",
+     "prompt": "It is thought that the campaign changed public attitudes towards recycling.",
+     "instruction": "Viết lại, bắt đầu bằng \"The campaign\"",
+     "starter": "The campaign",
+     "answer": [
+      "The campaign is thought to have changed public attitudes towards recycling."
+     ],
+     "hints": [
+      {
+       "vi": "thái độ của công chúng",
+       "en": "public attitudes"
+      },
+      {
+       "vi": "hướng tới, đối với",
+       "en": "towards"
+      }
+     ],
+     "explanation": "It is thought that S + V_ed → S + is thought + to have + V_pp."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_transform_04",
+     "type": "transform",
+     "prompt": "Researchers report that the programme improved literacy rates in rural areas.",
+     "instruction": "Viết lại, bắt đầu bằng \"The programme\"",
+     "starter": "The programme",
+     "answer": [
+      "The programme is reported to have improved literacy rates in rural areas."
+     ],
+     "hints": [
+      {
+       "vi": "tỉ lệ biết chữ",
+       "en": "literacy rates"
+      },
+      {
+       "vi": "vùng nông thôn",
+       "en": "rural areas"
+      },
+      {
+       "vi": "cải thiện",
+       "en": "improved"
+      }
+     ],
+     "explanation": "report → is reported + to have improved."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_transform_05",
+     "type": "transform",
+     "prompt": "It is said that the city was founded by traders in the twelfth century.",
+     "instruction": "Viết lại, bắt đầu bằng \"The city\"",
+     "starter": "The city",
+     "answer": [
+      "The city is said to have been founded by traders in the twelfth century."
+     ],
+     "hints": [
+      {
+       "vi": "được thành lập",
+       "en": "been founded"
+      },
+      {
+       "vi": "thương nhân",
+       "en": "traders"
+      },
+      {
+       "vi": "thế kỷ thứ mười hai",
+       "en": "the twelfth century"
+      }
+     ],
+     "explanation": "Mệnh đề gốc bị động ở quá khứ → to have been founded."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_translate_01",
+     "type": "translate",
+     "prompt": "Trận cháy rừng được ước tính đã thiêu rụi hơn một triệu héc-ta.",
+     "answer": [
+      "The wildfire is estimated to have burned more than one million hectares.",
+      "The forest fire is estimated to have burned more than one million hectares.",
+      "The wildfire is estimated to have destroyed more than one million hectares."
+     ],
+     "hints": [
+      {
+       "vi": "cháy rừng",
+       "en": "wildfire"
+      },
+      {
+       "vi": "thiêu rụi",
+       "en": "burned"
+      },
+      {
+       "vi": "héc-ta",
+       "en": "hectares"
+      }
+     ],
+     "explanation": "\"được ước tính đã…\" → is estimated to have + V_pp."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_translate_02",
+     "type": "translate",
+     "prompt": "Chính sách này được cho là đã làm giảm tỉ lệ thất nghiệp ở người trẻ.",
+     "answer": [
+      "This policy is believed to have reduced youth unemployment.",
+      "This policy is thought to have reduced youth unemployment.",
+      "This policy is believed to have reduced unemployment among young people."
+     ],
+     "hints": [
+      {
+       "vi": "tỉ lệ thất nghiệp ở người trẻ",
+       "en": "youth unemployment"
+      },
+      {
+       "vi": "làm giảm",
+       "en": "reduced"
+      }
+     ],
+     "explanation": "\"được cho là đã…\" → is believed/thought to have + V_pp."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_translate_03",
+     "type": "translate",
+     "prompt": "Nền văn minh cổ đại này được cho là đã sụp đổ vì hạn hán kéo dài.",
+     "answer": [
+      "This ancient civilisation is thought to have collapsed because of a prolonged drought.",
+      "This ancient civilization is thought to have collapsed because of a prolonged drought.",
+      "This ancient civilisation is believed to have collapsed because of a prolonged drought.",
+      "This ancient civilization is believed to have collapsed because of a prolonged drought."
+     ],
+     "hints": [
+      {
+       "vi": "nền văn minh cổ đại",
+       "en": "ancient civilisation"
+      },
+      {
+       "vi": "sụp đổ",
+       "en": "collapsed"
+      },
+      {
+       "vi": "hạn hán kéo dài",
+       "en": "a prolonged drought"
+      }
+     ],
+     "explanation": "Sự kiện quá khứ → to have collapsed."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_translate_04",
+     "type": "translate",
+     "prompt": "Hàng nghìn loài được cho là đã biến mất trong thế kỷ qua.",
+     "answer": [
+      "Thousands of species are thought to have disappeared over the past century.",
+      "Thousands of species are believed to have disappeared over the past century.",
+      "Thousands of species are thought to have disappeared in the last century.",
+      "Thousands of species are believed to have disappeared in the last century."
+     ],
+     "hints": [
+      {
+       "vi": "loài",
+       "en": "species"
+      },
+      {
+       "vi": "biến mất",
+       "en": "disappeared"
+      },
+      {
+       "vi": "thế kỷ qua",
+       "en": "the past century"
+      }
+     ],
+     "explanation": "Chủ ngữ số nhiều → are thought; quá khứ → to have disappeared."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_translate_05",
+     "type": "translate",
+     "prompt": "Ngôi đền được cho là đã được xây dựng hơn một nghìn năm trước.",
+     "answer": [
+      "The temple is said to have been built more than a thousand years ago.",
+      "The temple is believed to have been built more than a thousand years ago.",
+      "The temple is thought to have been built more than a thousand years ago.",
+      "The temple is said to have been built over a thousand years ago."
+     ],
+     "hints": [
+      {
+       "vi": "ngôi đền",
+       "en": "temple"
+      },
+      {
+       "vi": "đã được xây dựng",
+       "en": "have been built"
+      }
+     ],
+     "explanation": "Đền \"được xây\" (bị động) trong quá khứ → to have been built."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_mixed_01",
+     "type": "mixed",
+     "prompt": "The scheme is estimated ___ around 12,000 jobs since it began in 2015.",
+     "options": [
+      "to create",
+      "to have created",
+      "creating",
+      "to be created"
+     ],
+     "answer": [
+      "to have created"
+     ],
+     "explanation": "Kết quả tính đến nay từ một mốc quá khứ → to have created; \"to create\" là hiện tại/tương lai; \"to be created\" là bị động."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_mixed_02",
+     "type": "mixed",
+     "prompt": "Large parts of the coastline are believed ___ under water by 2100 if emissions keep rising.",
+     "options": [
+      "to have been",
+      "to be",
+      "being",
+      "to have"
+     ],
+     "answer": [
+      "to be"
+     ],
+     "explanation": "Dự đoán cho tương lai (by 2100) → to + V, không dùng to have + V_pp."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_mixed_03",
+     "type": "mixed",
+     "prompt": "The painting is thought ___ in the 1600s, but its artist remains unknown.",
+     "options": [
+      "to paint",
+      "to have painted",
+      "to have been painted",
+      "painting"
+     ],
+     "answer": [
+      "to have been painted"
+     ],
+     "explanation": "Bức tranh \"được vẽ\" (bị động) trong quá khứ → to have been painted."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_mixed_04",
+     "type": "mixed",
+     "prompt": "Over 60 per cent of adults are reported ___ social media every day nowadays.",
+     "options": [
+      "to use",
+      "to have used",
+      "to be used",
+      "using"
+     ],
+     "answer": [
+      "to use"
+     ],
+     "explanation": "Thói quen hiện tại (nowadays) → to + V."
+    },
+    {
+     "id": "gp_impersonal_passive_perfect_mixed_05",
+     "type": "mixed",
+     "prompt": "The ship is said ___ while it was carrying gold to Spain.",
+     "options": [
+      "to sink",
+      "to have sunk",
+      "to be sunk",
+      "sinking"
+     ],
+     "answer": [
+      "to have sunk"
+     ],
+     "explanation": "Sự việc đã xảy ra trong quá khứ → to have sunk (sink – sank – sunk)."
+    }
+   ],
+   "order": 0
+  },
+  {
+   "id": "gp_which_whole_clause",
+   "key": "Clause, which + V",
+   "name": "Mệnh đề \"which\" thay cho cả câu phía trước (Sentential relative clause)",
+   "formula": "Clause, which + V  (which = toàn bộ sự việc ở mệnh đề trước)\nClause, which means that + Clause",
+   "meaningVi": "Nối hệ quả hoặc nhận xét về CẢ sự việc phía trước vào cùng một câu — giúp bài Writing liền mạch, tránh chuỗi câu ngắn rời rạc.",
+   "notes": "Luôn có dấu phẩy trước \"which\"; không dùng \"that\" hay \"what\"; động từ sau \"which\" chia số ít vì \"which\" thay cho cả một sự việc.",
+   "examples": [
+    {
+     "en": "Concrete, brick and asphalt absorb heat during the day and release it slowly after dark, which means that city streets often remain uncomfortably warm long after the sun has set.",
+     "vi": "Bê tông, gạch và nhựa đường hấp thụ nhiệt ban ngày và toả ra chậm sau khi trời tối, điều đó có nghĩa là đường phố thường vẫn nóng khó chịu rất lâu sau khi mặt trời lặn.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "Trees also absorb rainwater, which reduces flooding.",
+     "vi": "Cây cũng hấp thụ nước mưa, điều này giúp giảm ngập lụt.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "Many graduates move abroad, which leads to a shortage of skilled workers.",
+     "vi": "Nhiều sinh viên tốt nghiệp ra nước ngoài, điều này dẫn đến tình trạng thiếu lao động có tay nghề."
+    }
+   ],
+   "confusedWith": [
+    "N, which + V (which = danh từ ngay trước)",
+    "N + that + V (mệnh đề xác định)"
+   ],
+   "band": 6.5,
+   "group": "Ngữ pháp từ bài đọc",
+   "subgroup": "Cooling the Concrete City",
+   "source": {
+    "doc": "Cooling the Concrete City",
+    "url": null
+   },
+   "exercises": [
+    {
+     "id": "gp_which_whole_clause_fill_01",
+     "type": "fill",
+     "prompt": "Many young people are moving to big cities, which ___ pressure on housing and transport.",
+     "base": "(put)",
+     "answer": [
+      "puts"
+     ],
+     "explanation": "\"which\" thay cho cả sự việc → động từ số ít: puts."
+    },
+    {
+     "id": "gp_which_whole_clause_fill_02",
+     "type": "fill",
+     "prompt": "The factory closed in 2020, which ___ hundreds of workers without jobs.",
+     "base": "(leave)",
+     "answer": [
+      "left"
+     ],
+     "explanation": "Sự việc trong quá khứ → left."
+    },
+    {
+     "id": "gp_which_whole_clause_fill_03",
+     "type": "fill",
+     "prompt": "More students are studying online, which ___ that universities need better digital infrastructure.",
+     "base": "(mean)",
+     "answer": [
+      "means"
+     ],
+     "explanation": "which means that… — động từ số ít."
+    },
+    {
+     "id": "gp_which_whole_clause_fill_04",
+     "type": "fill",
+     "prompt": "The government has raised fuel taxes, ___ has encouraged more people to use public transport.",
+     "base": "(đại từ quan hệ)",
+     "answer": [
+      "which"
+     ],
+     "explanation": "Thay cho cả mệnh đề, sau dấu phẩy → which (không dùng that)."
+    },
+    {
+     "id": "gp_which_whole_clause_fill_05",
+     "type": "fill",
+     "prompt": "Global temperatures rose sharply last year, which ___ the frequency of extreme weather events.",
+     "base": "(increase)",
+     "answer": [
+      "increased"
+     ],
+     "explanation": "last year → quá khứ đơn: increased."
+    },
+    {
+     "id": "gp_which_whole_clause_error_01",
+     "type": "error",
+     "prompt": "Many species are losing their habitats, that threatens biodiversity in the region.",
+     "wrong": "that",
+     "fix": [
+      "which"
+     ],
+     "answer": [
+      "Many species are losing their habitats, which threatens biodiversity in the region."
+     ],
+     "explanation": "Sau dấu phẩy, thay cho cả mệnh đề → which, không dùng that."
+    },
+    {
+     "id": "gp_which_whole_clause_error_02",
+     "type": "error",
+     "prompt": "Online shopping has grown rapidly, which have forced many small shops to close.",
+     "wrong": "have forced",
+     "fix": [
+      "has forced"
+     ],
+     "answer": [
+      "Online shopping has grown rapidly, which has forced many small shops to close."
+     ],
+     "explanation": "\"which\" = cả sự việc → động từ số ít: has forced."
+    },
+    {
+     "id": "gp_which_whole_clause_error_03",
+     "type": "error",
+     "prompt": "The city banned cars from the centre, what improved air quality noticeably.",
+     "wrong": "what",
+     "fix": [
+      "which"
+     ],
+     "answer": [
+      "The city banned cars from the centre, which improved air quality noticeably."
+     ],
+     "explanation": "\"what\" không dùng làm đại từ quan hệ nối mệnh đề → which."
+    },
+    {
+     "id": "gp_which_whole_clause_error_04",
+     "type": "error",
+     "prompt": "Tuition fees have doubled, which mean that fewer students can afford higher education.",
+     "wrong": "mean",
+     "fix": [
+      "means"
+     ],
+     "answer": [
+      "Tuition fees have doubled, which means that fewer students can afford higher education."
+     ],
+     "explanation": "which means that — động từ chia số ít."
+    },
+    {
+     "id": "gp_which_whole_clause_error_05",
+     "type": "error",
+     "prompt": "Average life expectancy has increased, which it puts pressure on healthcare systems.",
+     "wrong": "which it puts",
+     "fix": [
+      "which puts"
+     ],
+     "answer": [
+      "Average life expectancy has increased, which puts pressure on healthcare systems."
+     ],
+     "explanation": "\"which\" đã là chủ ngữ — không thêm \"it\"."
+    },
+    {
+     "id": "gp_which_whole_clause_transform_01",
+     "type": "transform",
+     "prompt": "Air travel has become much cheaper. This has led to a sharp rise in tourism.",
+     "instruction": "Nối thành một câu, dùng \", which\"",
+     "starter": "Air travel has become much cheaper",
+     "answer": [
+      "Air travel has become much cheaper, which has led to a sharp rise in tourism."
+     ],
+     "hints": [
+      {
+       "vi": "dẫn đến",
+       "en": "has led to"
+      },
+      {
+       "vi": "sự gia tăng mạnh",
+       "en": "a sharp rise"
+      },
+      {
+       "vi": "du lịch",
+       "en": "tourism"
+      }
+     ],
+     "explanation": "\"This\" thay cho cả câu trước → \", which\"."
+    },
+    {
+     "id": "gp_which_whole_clause_transform_02",
+     "type": "transform",
+     "prompt": "Many farmers use chemical fertilisers. This pollutes nearby rivers.",
+     "instruction": "Nối thành một câu, dùng \", which\"",
+     "starter": "Many farmers use chemical fertilisers",
+     "answer": [
+      "Many farmers use chemical fertilisers, which pollutes nearby rivers."
+     ],
+     "hints": [
+      {
+       "vi": "phân bón hoá học",
+       "en": "chemical fertilisers"
+      },
+      {
+       "vi": "gây ô nhiễm",
+       "en": "pollutes"
+      },
+      {
+       "vi": "các con sông gần đó",
+       "en": "nearby rivers"
+      }
+     ],
+     "explanation": "which = việc dùng phân bón → pollutes (số ít)."
+    },
+    {
+     "id": "gp_which_whole_clause_transform_03",
+     "type": "transform",
+     "prompt": "The museum is now free to enter. This has doubled the number of visitors.",
+     "instruction": "Nối thành một câu, dùng \", which\"",
+     "starter": "The museum is now free to enter",
+     "answer": [
+      "The museum is now free to enter, which has doubled the number of visitors."
+     ],
+     "hints": [
+      {
+       "vi": "tăng gấp đôi",
+       "en": "has doubled"
+      },
+      {
+       "vi": "số lượng khách tham quan",
+       "en": "the number of visitors"
+      }
+     ],
+     "explanation": "This → , which."
+    },
+    {
+     "id": "gp_which_whole_clause_transform_04",
+     "type": "transform",
+     "prompt": "Most employees now work from home twice a week. This reduces traffic at peak times.",
+     "instruction": "Nối thành một câu, dùng \", which\"",
+     "starter": "Most employees now work from home twice a week",
+     "answer": [
+      "Most employees now work from home twice a week, which reduces traffic at peak times."
+     ],
+     "hints": [
+      {
+       "vi": "giờ cao điểm",
+       "en": "peak times"
+      },
+      {
+       "vi": "giảm",
+       "en": "reduces"
+      },
+      {
+       "vi": "giao thông",
+       "en": "traffic"
+      }
+     ],
+     "explanation": "which thay cho cả sự việc → reduces."
+    },
+    {
+     "id": "gp_which_whole_clause_transform_05",
+     "type": "transform",
+     "prompt": "The river flooded the town last spring. This caused serious damage to local businesses.",
+     "instruction": "Nối thành một câu, dùng \", which\"",
+     "starter": "The river flooded the town last spring",
+     "answer": [
+      "The river flooded the town last spring, which caused serious damage to local businesses."
+     ],
+     "hints": [
+      {
+       "vi": "thiệt hại nghiêm trọng",
+       "en": "serious damage"
+      },
+      {
+       "vi": "doanh nghiệp địa phương",
+       "en": "local businesses"
+      }
+     ],
+     "explanation": "This → , which; giữ thì quá khứ."
+    },
+    {
+     "id": "gp_which_whole_clause_translate_01",
+     "type": "translate",
+     "prompt": "Nhiều người dùng phương tiện công cộng, điều này giúp giảm ô nhiễm không khí.",
+     "answer": [
+      "Many people use public transport, which helps to reduce air pollution.",
+      "Many people use public transport, which helps reduce air pollution.",
+      "Many people use public transportation, which helps to reduce air pollution.",
+      "Many people use public transportation, which helps reduce air pollution."
+     ],
+     "hints": [
+      {
+       "vi": "phương tiện công cộng",
+       "en": "public transport"
+      },
+      {
+       "vi": "ô nhiễm không khí",
+       "en": "air pollution"
+      },
+      {
+       "vi": "giúp",
+       "en": "helps"
+      }
+     ],
+     "explanation": "\"điều này\" thay cho cả vế trước → , which."
+    },
+    {
+     "id": "gp_which_whole_clause_translate_02",
+     "type": "translate",
+     "prompt": "Giá nhà tăng nhanh, điều này khiến người trẻ khó mua nhà.",
+     "answer": [
+      "House prices have risen rapidly, which makes it difficult for young people to buy a home.",
+      "House prices are rising rapidly, which makes it difficult for young people to buy a home.",
+      "House prices have risen quickly, which makes it difficult for young people to buy a home.",
+      "House prices have risen rapidly, which makes it hard for young people to buy a home."
+     ],
+     "hints": [
+      {
+       "vi": "giá nhà",
+       "en": "house prices"
+      },
+      {
+       "vi": "khiến … khó",
+       "en": "makes it difficult for"
+      }
+     ],
+     "explanation": ", which + makes (số ít)."
+    },
+    {
+     "id": "gp_which_whole_clause_translate_03",
+     "type": "translate",
+     "prompt": "Chính phủ đã cấm túi nhựa, điều này làm giảm lượng rác thải ra biển.",
+     "answer": [
+      "The government has banned plastic bags, which has reduced the amount of waste entering the sea.",
+      "The government has banned plastic bags, which has reduced the amount of waste in the sea.",
+      "The government banned plastic bags, which reduced the amount of waste entering the sea."
+     ],
+     "hints": [
+      {
+       "vi": "cấm",
+       "en": "banned"
+      },
+      {
+       "vi": "túi nhựa",
+       "en": "plastic bags"
+      },
+      {
+       "vi": "lượng rác thải",
+       "en": "the amount of waste"
+      }
+     ],
+     "explanation": ", which + has reduced."
+    },
+    {
+     "id": "gp_which_whole_clause_translate_04",
+     "type": "translate",
+     "prompt": "Nhiều sinh viên làm thêm, điều này ảnh hưởng đến kết quả học tập của họ.",
+     "answer": [
+      "Many students work part-time, which affects their academic performance.",
+      "Many students have part-time jobs, which affects their academic performance.",
+      "Many students work part-time, which affects their academic results."
+     ],
+     "hints": [
+      {
+       "vi": "làm thêm",
+       "en": "work part-time"
+      },
+      {
+       "vi": "kết quả học tập",
+       "en": "academic performance"
+      },
+      {
+       "vi": "ảnh hưởng đến",
+       "en": "affects"
+      }
+     ],
+     "explanation": ", which + affects (số ít)."
+    },
+    {
+     "id": "gp_which_whole_clause_translate_05",
+     "type": "translate",
+     "prompt": "Dân số già đi nhanh chóng, điều này tạo áp lực lên hệ thống y tế.",
+     "answer": [
+      "The population is ageing rapidly, which puts pressure on the healthcare system.",
+      "The population is aging rapidly, which puts pressure on the healthcare system.",
+      "The population is ageing rapidly, which puts pressure on the health system.",
+      "The population is ageing quickly, which puts pressure on the healthcare system."
+     ],
+     "hints": [
+      {
+       "vi": "già đi",
+       "en": "ageing"
+      },
+      {
+       "vi": "tạo áp lực lên",
+       "en": "puts pressure on"
+      },
+      {
+       "vi": "hệ thống y tế",
+       "en": "healthcare system"
+      }
+     ],
+     "explanation": ", which + puts pressure on."
+    },
+    {
+     "id": "gp_which_whole_clause_mixed_01",
+     "type": "mixed",
+     "prompt": "Unemployment fell to 4%, ___ was the lowest figure in a decade.",
+     "options": [
+      "which",
+      "that",
+      "what",
+      "who"
+     ],
+     "answer": [
+      "which"
+     ],
+     "explanation": "Thay cho cả sự việc, sau dấu phẩy → which; that không đứng sau dấu phẩy."
+    },
+    {
+     "id": "gp_which_whole_clause_mixed_02",
+     "type": "mixed",
+     "prompt": "Sea levels are rising, which ___ coastal cities at greater risk of flooding.",
+     "options": [
+      "puts",
+      "put",
+      "putting",
+      "are put"
+     ],
+     "answer": [
+      "puts"
+     ],
+     "explanation": "\"which\" = cả sự việc → số ít: puts."
+    },
+    {
+     "id": "gp_which_whole_clause_mixed_03",
+     "type": "mixed",
+     "prompt": "The study ___ was published last week shows a sharp rise in childhood obesity.",
+     "options": [
+      "that",
+      "what",
+      "whose",
+      "when"
+     ],
+     "answer": [
+      "that"
+     ],
+     "explanation": "Ở đây là mệnh đề XÁC ĐỊNH cho \"the study\" (không có dấu phẩy) → that/which; khác với \", which\" thay cho cả câu."
+    },
+    {
+     "id": "gp_which_whole_clause_mixed_04",
+     "type": "mixed",
+     "prompt": "Many shops now refuse cash, ___ can be a problem for elderly customers.",
+     "options": [
+      "which",
+      "that",
+      "it",
+      "what"
+     ],
+     "answer": [
+      "which"
+     ],
+     "explanation": "\", it\" sẽ tạo lỗi nối câu bằng dấu phẩy; cần which."
+    },
+    {
+     "id": "gp_which_whole_clause_mixed_05",
+     "type": "mixed",
+     "prompt": "Car ownership has fallen, ___ suggests that public transport is improving.",
+     "options": [
+      "which",
+      "this",
+      "what",
+      "that"
+     ],
+     "answer": [
+      "which"
+     ],
+     "explanation": "\"this\" sau dấu phẩy là lỗi comma splice; dùng which để nối."
+    }
+   ],
+   "order": 1
+  },
+  {
+   "id": "gp_reduced_passive_relative",
+   "key": "N + V_pp (+ by/with N)",
+   "name": "Mệnh đề quan hệ rút gọn bị động (Reduced relative clause – past participle)",
+   "formula": "N + V_pp (+ by/with N) + V …\n= N + which/that + be + V_pp …",
+   "meaningVi": "Bỏ \"which/that + be\" để cụm danh từ mang nghĩa bị động ngắn gọn, học thuật hơn — dùng nhiều khi mô tả số liệu, sản phẩm, chính sách.",
+   "notes": "Chỉ rút gọn thành V_pp khi nghĩa bị động; nghĩa chủ động dùng V_ing. Động từ chính của câu vẫn phải chia theo chủ ngữ N.",
+   "examples": [
+    {
+     "en": "Reflective or 'cool' roofs, painted white or covered with light-coloured membranes, send most sunlight back into the sky instead of absorbing it.",
+     "vi": "Mái nhà phản xạ hay \"mái mát\", được sơn trắng hoặc phủ màng sáng màu, đẩy phần lớn ánh nắng trở lại bầu trời thay vì hấp thụ.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "Green roofs, planted with grass and shallow-rooted plants, work in a similar way.",
+     "vi": "Mái xanh, được trồng cỏ và cây rễ nông, hoạt động theo cách tương tự.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "Products made from recycled plastic are becoming more popular.",
+     "vi": "Các sản phẩm làm từ nhựa tái chế ngày càng phổ biến."
+    }
+   ],
+   "confusedWith": [
+    "N + V_ing (+ O) (rút gọn chủ động)",
+    "N + which/that + be + V_pp"
+   ],
+   "band": 6.5,
+   "group": "Ngữ pháp từ bài đọc",
+   "subgroup": "Cooling the Concrete City",
+   "source": {
+    "doc": "Cooling the Concrete City",
+    "url": null
+   },
+   "exercises": [
+    {
+     "id": "gp_reduced_passive_relative_fill_01",
+     "type": "fill",
+     "prompt": "The data ___ in the survey suggest that most commuters would prefer to cycle.",
+     "base": "(collect)",
+     "answer": [
+      "collected"
+     ],
+     "explanation": "Dữ liệu \"được thu thập\" → collected."
+    },
+    {
+     "id": "gp_reduced_passive_relative_fill_02",
+     "type": "fill",
+     "prompt": "Products ___ from recycled materials are becoming increasingly popular.",
+     "base": "(make)",
+     "answer": [
+      "made"
+     ],
+     "explanation": "Sản phẩm \"được làm\" → made."
+    },
+    {
+     "id": "gp_reduced_passive_relative_fill_03",
+     "type": "fill",
+     "prompt": "Most of the energy ___ in the region comes from coal.",
+     "base": "(consume)",
+     "answer": [
+      "consumed"
+     ],
+     "explanation": "Năng lượng \"được tiêu thụ\" → consumed."
+    },
+    {
+     "id": "gp_reduced_passive_relative_fill_04",
+     "type": "fill",
+     "prompt": "Students ___ in the study reported higher levels of stress during exams.",
+     "base": "(interview)",
+     "answer": [
+      "interviewed"
+     ],
+     "explanation": "Sinh viên \"được phỏng vấn\" → interviewed."
+    },
+    {
+     "id": "gp_reduced_passive_relative_fill_05",
+     "type": "fill",
+     "prompt": "Houses ___ before 1950 are often poorly insulated.",
+     "base": "(build)",
+     "answer": [
+      "built"
+     ],
+     "explanation": "Nhà \"được xây\" → built."
+    },
+    {
+     "id": "gp_reduced_passive_relative_error_01",
+     "type": "error",
+     "prompt": "The report publishing by the WHO shows a rise in childhood obesity.",
+     "wrong": "publishing",
+     "fix": [
+      "published"
+     ],
+     "answer": [
+      "The report published by the WHO shows a rise in childhood obesity."
+     ],
+     "explanation": "Báo cáo \"được công bố\" (có by) → V_pp: published."
+    },
+    {
+     "id": "gp_reduced_passive_relative_error_02",
+     "type": "error",
+     "prompt": "Vegetables growing without pesticides are usually more expensive.",
+     "wrong": "growing",
+     "fix": [
+      "grown"
+     ],
+     "answer": [
+      "Vegetables grown without pesticides are usually more expensive."
+     ],
+     "explanation": "Rau \"được trồng\" → grown."
+    },
+    {
+     "id": "gp_reduced_passive_relative_error_03",
+     "type": "error",
+     "prompt": "Most of the plastic is produced every year ends up in landfill.",
+     "wrong": "is produced",
+     "fix": [
+      "produced"
+     ],
+     "answer": [
+      "Most of the plastic produced every year ends up in landfill."
+     ],
+     "explanation": "Câu chỉ có một động từ chính (ends up) → rút gọn bỏ \"is\": produced."
+    },
+    {
+     "id": "gp_reduced_passive_relative_error_04",
+     "type": "error",
+     "prompt": "The measures introduce last year have already reduced traffic congestion.",
+     "wrong": "introduce",
+     "fix": [
+      "introduced"
+     ],
+     "answer": [
+      "The measures introduced last year have already reduced traffic congestion."
+     ],
+     "explanation": "Biện pháp \"được đưa ra\" → introduced."
+    },
+    {
+     "id": "gp_reduced_passive_relative_error_05",
+     "type": "error",
+     "prompt": "Buildings designing to save energy can cut heating costs by half.",
+     "wrong": "designing",
+     "fix": [
+      "designed"
+     ],
+     "answer": [
+      "Buildings designed to save energy can cut heating costs by half."
+     ],
+     "explanation": "Toà nhà \"được thiết kế\" → designed."
+    },
+    {
+     "id": "gp_reduced_passive_relative_transform_01",
+     "type": "transform",
+     "prompt": "The vaccines which were developed during the pandemic saved millions of lives.",
+     "instruction": "Rút gọn mệnh đề quan hệ",
+     "starter": "The vaccines",
+     "answer": [
+      "The vaccines developed during the pandemic saved millions of lives."
+     ],
+     "hints": [
+      {
+       "vi": "được phát triển",
+       "en": "developed"
+      },
+      {
+       "vi": "đại dịch",
+       "en": "pandemic"
+      },
+      {
+       "vi": "cứu sống",
+       "en": "saved"
+      }
+     ],
+     "explanation": "Bỏ \"which were\" → developed."
+    },
+    {
+     "id": "gp_reduced_passive_relative_transform_02",
+     "type": "transform",
+     "prompt": "Food that is wasted in restaurants could feed thousands of people.",
+     "instruction": "Rút gọn mệnh đề quan hệ",
+     "starter": "Food",
+     "answer": [
+      "Food wasted in restaurants could feed thousands of people."
+     ],
+     "hints": [
+      {
+       "vi": "bị lãng phí",
+       "en": "wasted"
+      },
+      {
+       "vi": "nuôi sống",
+       "en": "feed"
+      }
+     ],
+     "explanation": "Bỏ \"that is\" → wasted."
+    },
+    {
+     "id": "gp_reduced_passive_relative_transform_03",
+     "type": "transform",
+     "prompt": "The results which were published in 2022 surprised many scientists.",
+     "instruction": "Rút gọn mệnh đề quan hệ",
+     "starter": "The results",
+     "answer": [
+      "The results published in 2022 surprised many scientists."
+     ],
+     "hints": [
+      {
+       "vi": "được công bố",
+       "en": "published"
+      },
+      {
+       "vi": "khiến … ngạc nhiên",
+       "en": "surprised"
+      }
+     ],
+     "explanation": "Bỏ \"which were\" → published."
+    },
+    {
+     "id": "gp_reduced_passive_relative_transform_04",
+     "type": "transform",
+     "prompt": "Cars that are powered by electricity produce no exhaust fumes.",
+     "instruction": "Rút gọn mệnh đề quan hệ",
+     "starter": "Cars",
+     "answer": [
+      "Cars powered by electricity produce no exhaust fumes."
+     ],
+     "hints": [
+      {
+       "vi": "chạy bằng",
+       "en": "powered by"
+      },
+      {
+       "vi": "khí thải",
+       "en": "exhaust fumes"
+      }
+     ],
+     "explanation": "Bỏ \"that are\" → powered."
+    },
+    {
+     "id": "gp_reduced_passive_relative_transform_05",
+     "type": "transform",
+     "prompt": "Many of the jobs which are created by tourism are seasonal.",
+     "instruction": "Rút gọn mệnh đề quan hệ",
+     "starter": "Many of the jobs",
+     "answer": [
+      "Many of the jobs created by tourism are seasonal."
+     ],
+     "hints": [
+      {
+       "vi": "được tạo ra",
+       "en": "created"
+      },
+      {
+       "vi": "theo mùa",
+       "en": "seasonal"
+      }
+     ],
+     "explanation": "Bỏ \"which are\" → created."
+    },
+    {
+     "id": "gp_reduced_passive_relative_translate_01",
+     "type": "translate",
+     "prompt": "Những ngôi nhà được xây bằng gỗ thường mát hơn vào mùa hè.",
+     "answer": [
+      "Houses built of wood are usually cooler in summer.",
+      "Houses built from wood are usually cooler in summer.",
+      "Houses made of wood are usually cooler in summer.",
+      "Houses built of wood are often cooler in summer."
+     ],
+     "hints": [
+      {
+       "vi": "được xây bằng gỗ",
+       "en": "built of wood"
+      },
+      {
+       "vi": "mát hơn",
+       "en": "cooler"
+      }
+     ],
+     "explanation": "\"được xây\" → rút gọn: houses built of wood."
+    },
+    {
+     "id": "gp_reduced_passive_relative_translate_02",
+     "type": "translate",
+     "prompt": "Phần lớn rác thải được tạo ra ở các thành phố không được tái chế.",
+     "answer": [
+      "Most of the waste produced in cities is not recycled.",
+      "Most of the waste generated in cities is not recycled.",
+      "Most waste produced in cities is not recycled.",
+      "Most waste generated in cities is not recycled."
+     ],
+     "hints": [
+      {
+       "vi": "được tạo ra",
+       "en": "produced"
+      },
+      {
+       "vi": "tái chế",
+       "en": "recycled"
+      }
+     ],
+     "explanation": "waste produced in cities (rút gọn) + is not recycled."
+    },
+    {
+     "id": "gp_reduced_passive_relative_translate_03",
+     "type": "translate",
+     "prompt": "Các khoá học được dạy bằng tiếng Anh thu hút nhiều sinh viên quốc tế.",
+     "answer": [
+      "Courses taught in English attract many international students.",
+      "Courses taught in English attract a lot of international students."
+     ],
+     "hints": [
+      {
+       "vi": "được dạy",
+       "en": "taught"
+      },
+      {
+       "vi": "thu hút",
+       "en": "attract"
+      },
+      {
+       "vi": "sinh viên quốc tế",
+       "en": "international students"
+      }
+     ],
+     "explanation": "courses taught in English."
+    },
+    {
+     "id": "gp_reduced_passive_relative_translate_04",
+     "type": "translate",
+     "prompt": "Thông tin được chia sẻ trên mạng xã hội không phải lúc nào cũng chính xác.",
+     "answer": [
+      "Information shared on social media is not always accurate.",
+      "Information shared on social media is not always reliable."
+     ],
+     "hints": [
+      {
+       "vi": "được chia sẻ",
+       "en": "shared"
+      },
+      {
+       "vi": "mạng xã hội",
+       "en": "social media"
+      },
+      {
+       "vi": "chính xác",
+       "en": "accurate"
+      }
+     ],
+     "explanation": "information shared on social media."
+    },
+    {
+     "id": "gp_reduced_passive_relative_translate_05",
+     "type": "translate",
+     "prompt": "Năng lượng được sản xuất từ gió và mặt trời ngày càng rẻ.",
+     "answer": [
+      "Energy produced from wind and solar power is becoming cheaper.",
+      "Energy generated from wind and solar power is becoming cheaper.",
+      "Energy produced from wind and sunlight is becoming cheaper.",
+      "Energy produced from wind and solar power is getting cheaper."
+     ],
+     "hints": [
+      {
+       "vi": "được sản xuất",
+       "en": "produced"
+      },
+      {
+       "vi": "ngày càng rẻ",
+       "en": "is becoming cheaper"
+      }
+     ],
+     "explanation": "energy produced from … + is becoming cheaper."
+    },
+    {
+     "id": "gp_reduced_passive_relative_mixed_01",
+     "type": "mixed",
+     "prompt": "The number of people ___ in the service sector has risen steadily.",
+     "options": [
+      "employed",
+      "employing",
+      "are employed",
+      "who employed"
+     ],
+     "answer": [
+      "employed"
+     ],
+     "explanation": "Người \"được tuyển dụng\" → employed; \"are employed\" thừa động từ."
+    },
+    {
+     "id": "gp_reduced_passive_relative_mixed_02",
+     "type": "mixed",
+     "prompt": "Students ___ part-time jobs often have less time to study.",
+     "options": [
+      "doing",
+      "done",
+      "are doing",
+      "who done"
+     ],
+     "answer": [
+      "doing"
+     ],
+     "explanation": "Sinh viên TỰ làm việc (chủ động) → rút gọn bằng V_ing."
+    },
+    {
+     "id": "gp_reduced_passive_relative_mixed_03",
+     "type": "mixed",
+     "prompt": "The bridge, ___ in 1890, is still used by thousands of cars every day.",
+     "options": [
+      "built",
+      "building",
+      "was built",
+      "which built"
+     ],
+     "answer": [
+      "built"
+     ],
+     "explanation": "Cây cầu \"được xây\" → built."
+    },
+    {
+     "id": "gp_reduced_passive_relative_mixed_04",
+     "type": "mixed",
+     "prompt": "Companies ___ renewable energy may receive tax benefits.",
+     "options": [
+      "using",
+      "used",
+      "are using",
+      "to be used"
+     ],
+     "answer": [
+      "using"
+     ],
+     "explanation": "Công ty chủ động sử dụng → using."
+    },
+    {
+     "id": "gp_reduced_passive_relative_mixed_05",
+     "type": "mixed",
+     "prompt": "Much of the rice ___ in Asia is grown on small family farms.",
+     "options": [
+      "eaten",
+      "eating",
+      "is eaten",
+      "eats"
+     ],
+     "answer": [
+      "eaten"
+     ],
+     "explanation": "Gạo \"được ăn\" → eaten."
+    }
+   ],
+   "order": 2
+  },
+  {
+   "id": "gp_so_auxiliary_subject",
+   "key": "Clause, and so + aux + S",
+   "name": "Cấu trúc \"… và S cũng vậy\" (so / neither + trợ động từ + S)",
+   "formula": "Clause (khẳng định), and so + do/does/did/be/have/modal + S\nClause (phủ định), and neither/nor + aux + S",
+   "meaningVi": "Nói \"S cũng vậy\" mà không lặp lại cả vế — đảo trợ động từ lên trước chủ ngữ, giúp câu gọn và tự nhiên hơn trong Writing/Speaking.",
+   "notes": "Trợ động từ theo vế trước: be → be, have → have, modal → modal, động từ thường → do/does/did; chia theo chủ ngữ ĐỨNG SAU. Vế trước phủ định → neither/nor.",
+   "examples": [
+    {
+     "en": "Dark roofs make the problem worse, and so does the lack of vegetation.",
+     "vi": "Mái nhà tối màu làm vấn đề tệ hơn, và việc thiếu cây xanh cũng vậy.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "Urban populations are growing, and so is the demand for housing.",
+     "vi": "Dân số đô thị đang tăng, và nhu cầu nhà ở cũng vậy."
+    },
+    {
+     "en": "Online learning has expanded rapidly, and so has the need for digital skills.",
+     "vi": "Học trực tuyến đã mở rộng nhanh chóng, và nhu cầu kỹ năng số cũng vậy."
+    }
+   ],
+   "confusedWith": [
+    "Clause, and S + aux + too",
+    "Clause (phủ định), and neither + aux + S"
+   ],
+   "band": 6.5,
+   "group": "Ngữ pháp từ bài đọc",
+   "subgroup": "Cooling the Concrete City",
+   "source": {
+    "doc": "Cooling the Concrete City",
+    "url": null
+   },
+   "exercises": [
+    {
+     "id": "gp_so_auxiliary_subject_fill_01",
+     "type": "fill",
+     "prompt": "Air pollution damages people's health, and so ___ noise from heavy traffic.",
+     "base": "(do)",
+     "answer": [
+      "does"
+     ],
+     "explanation": "Vế trước dùng động từ thường hiện tại, chủ ngữ sau số ít → does."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_fill_02",
+     "type": "fill",
+     "prompt": "The cost of living has risen sharply, and so ___ the number of people in debt.",
+     "base": "(have)",
+     "answer": [
+      "has"
+     ],
+     "explanation": "has risen → has; \"the number\" số ít."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_fill_03",
+     "type": "fill",
+     "prompt": "Renewable energy is becoming cheaper, and so ___ battery storage.",
+     "base": "(be)",
+     "answer": [
+      "is"
+     ],
+     "explanation": "is becoming → is."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_fill_04",
+     "type": "fill",
+     "prompt": "Coastal cities can benefit from tourism, and so ___ small island nations.",
+     "base": "(modal)",
+     "answer": [
+      "can"
+     ],
+     "explanation": "Vế trước có \"can\" → so can."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_fill_05",
+     "type": "fill",
+     "prompt": "Online sales grew rapidly during the pandemic, and so ___ demand for delivery drivers.",
+     "base": "(do)",
+     "answer": [
+      "did"
+     ],
+     "explanation": "grew (quá khứ đơn) → did."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_error_01",
+     "type": "error",
+     "prompt": "Car ownership is increasing, and so does the level of traffic congestion.",
+     "wrong": "so does",
+     "fix": [
+      "so is"
+     ],
+     "answer": [
+      "Car ownership is increasing, and so is the level of traffic congestion."
+     ],
+     "explanation": "Vế trước dùng \"is increasing\" → so is."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_error_02",
+     "type": "error",
+     "prompt": "Global temperatures have risen, and so did sea levels.",
+     "wrong": "so did",
+     "fix": [
+      "so have"
+     ],
+     "answer": [
+      "Global temperatures have risen, and so have sea levels."
+     ],
+     "explanation": "have risen → so have (sea levels số nhiều)."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_error_03",
+     "type": "error",
+     "prompt": "Smartphones have changed the way we communicate, and so social media has.",
+     "wrong": "so social media has",
+     "fix": [
+      "so has social media"
+     ],
+     "answer": [
+      "Smartphones have changed the way we communicate, and so has social media."
+     ],
+     "explanation": "Phải đảo trợ động từ lên trước chủ ngữ: so has social media."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_error_04",
+     "type": "error",
+     "prompt": "Deforestation contributes to climate change, and so do intensive farming.",
+     "wrong": "so do",
+     "fix": [
+      "so does"
+     ],
+     "answer": [
+      "Deforestation contributes to climate change, and so does intensive farming."
+     ],
+     "explanation": "Chủ ngữ sau \"intensive farming\" số ít → does."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_error_05",
+     "type": "error",
+     "prompt": "Many universities do not charge tuition fees, and so do some colleges.",
+     "wrong": "so do",
+     "fix": [
+      "neither do",
+      "nor do"
+     ],
+     "answer": [
+      "Many universities do not charge tuition fees, and neither do some colleges.",
+      "Many universities do not charge tuition fees, and nor do some colleges."
+     ],
+     "explanation": "Vế trước phủ định → neither/nor do."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_transform_01",
+     "type": "transform",
+     "prompt": "Unemployment has fallen. Crime has fallen too.",
+     "instruction": "Nối thành một câu, dùng \"and so\"",
+     "starter": "Unemployment has fallen",
+     "answer": [
+      "Unemployment has fallen, and so has crime."
+     ],
+     "hints": [
+      {
+       "vi": "tội phạm",
+       "en": "crime"
+      },
+      {
+       "vi": "thất nghiệp",
+       "en": "unemployment"
+      },
+      {
+       "vi": "đã giảm",
+       "en": "has fallen"
+      }
+     ],
+     "explanation": "has fallen → and so has + S."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_transform_02",
+     "type": "transform",
+     "prompt": "Exercise improves mental health. A balanced diet improves it too.",
+     "instruction": "Nối thành một câu, dùng \"and so\"",
+     "starter": "Exercise improves mental health",
+     "answer": [
+      "Exercise improves mental health, and so does a balanced diet."
+     ],
+     "hints": [
+      {
+       "vi": "chế độ ăn cân bằng",
+       "en": "a balanced diet"
+      },
+      {
+       "vi": "sức khoẻ tinh thần",
+       "en": "mental health"
+      }
+     ],
+     "explanation": "improves (động từ thường) → so does."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_transform_03",
+     "type": "transform",
+     "prompt": "Wind power is becoming more efficient. Solar power is too.",
+     "instruction": "Nối thành một câu, dùng \"and so\"",
+     "starter": "Wind power is becoming more efficient",
+     "answer": [
+      "Wind power is becoming more efficient, and so is solar power."
+     ],
+     "hints": [
+      {
+       "vi": "hiệu quả hơn",
+       "en": "more efficient"
+      },
+      {
+       "vi": "điện mặt trời",
+       "en": "solar power"
+      }
+     ],
+     "explanation": "is → so is."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_transform_04",
+     "type": "transform",
+     "prompt": "Developed countries should cut emissions. Developing countries should too.",
+     "instruction": "Nối thành một câu, dùng \"and so\"",
+     "starter": "Developed countries should cut emissions",
+     "answer": [
+      "Developed countries should cut emissions, and so should developing countries."
+     ],
+     "hints": [
+      {
+       "vi": "cắt giảm khí thải",
+       "en": "cut emissions"
+      },
+      {
+       "vi": "các nước đang phát triển",
+       "en": "developing countries"
+      }
+     ],
+     "explanation": "should → so should."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_transform_05",
+     "type": "transform",
+     "prompt": "The city did not invest in public transport. The national government did not either.",
+     "instruction": "Nối thành một câu (vế phủ định)",
+     "starter": "The city did not invest in public transport",
+     "answer": [
+      "The city did not invest in public transport, and neither did the national government.",
+      "The city did not invest in public transport, and nor did the national government."
+     ],
+     "hints": [
+      {
+       "vi": "đầu tư",
+       "en": "invest"
+      },
+      {
+       "vi": "chính phủ trung ương",
+       "en": "the national government"
+      }
+     ],
+     "explanation": "Phủ định → and neither/nor did + S."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_translate_01",
+     "type": "translate",
+     "prompt": "Giá năng lượng đã tăng, và chi phí thực phẩm cũng vậy.",
+     "answer": [
+      "Energy prices have risen, and so has the cost of food.",
+      "Energy prices have increased, and so has the cost of food.",
+      "Energy prices have gone up, and so has the cost of food.",
+      "Energy prices have risen, and so have food costs."
+     ],
+     "hints": [
+      {
+       "vi": "giá năng lượng",
+       "en": "energy prices"
+      },
+      {
+       "vi": "chi phí thực phẩm",
+       "en": "the cost of food"
+      }
+     ],
+     "explanation": "have risen → and so has the cost of food."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_translate_02",
+     "type": "translate",
+     "prompt": "Học sinh cần kỹ năng số, và giáo viên cũng vậy.",
+     "answer": [
+      "Students need digital skills, and so do teachers."
+     ],
+     "hints": [
+      {
+       "vi": "kỹ năng số",
+       "en": "digital skills"
+      },
+      {
+       "vi": "giáo viên",
+       "en": "teachers"
+      },
+      {
+       "vi": "cần",
+       "en": "need"
+      }
+     ],
+     "explanation": "need (động từ thường, chủ ngữ sau số nhiều) → so do teachers."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_translate_03",
+     "type": "translate",
+     "prompt": "Dân số đô thị đang tăng, và nhu cầu nhà ở cũng vậy.",
+     "answer": [
+      "The urban population is growing, and so is the demand for housing.",
+      "The urban population is increasing, and so is the demand for housing.",
+      "Urban populations are growing, and so is the demand for housing."
+     ],
+     "hints": [
+      {
+       "vi": "dân số đô thị",
+       "en": "urban population"
+      },
+      {
+       "vi": "nhu cầu nhà ở",
+       "en": "the demand for housing"
+      }
+     ],
+     "explanation": "is growing → and so is."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_translate_04",
+     "type": "translate",
+     "prompt": "Ô tô điện có thể giảm ô nhiễm, và xe đạp cũng vậy.",
+     "answer": [
+      "Electric cars can reduce pollution, and so can bicycles.",
+      "Electric cars can reduce pollution, and so can bikes.",
+      "Electric vehicles can reduce pollution, and so can bicycles."
+     ],
+     "hints": [
+      {
+       "vi": "ô tô điện",
+       "en": "electric cars"
+      },
+      {
+       "vi": "xe đạp",
+       "en": "bicycles"
+      }
+     ],
+     "explanation": "can → and so can."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_translate_05",
+     "type": "translate",
+     "prompt": "Chính phủ không phản hồi, và các công ty lớn cũng không.",
+     "answer": [
+      "The government did not respond, and neither did large companies.",
+      "The government did not respond, and nor did large companies.",
+      "The government did not respond, and neither did big companies.",
+      "The government has not responded, and neither have large companies."
+     ],
+     "hints": [
+      {
+       "vi": "phản hồi",
+       "en": "respond"
+      },
+      {
+       "vi": "các công ty lớn",
+       "en": "large companies"
+      }
+     ],
+     "explanation": "Phủ định → and neither did + S."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_mixed_01",
+     "type": "mixed",
+     "prompt": "Life expectancy has increased, and so ___ the cost of healthcare.",
+     "options": [
+      "has",
+      "is",
+      "does",
+      "did"
+     ],
+     "answer": [
+      "has"
+     ],
+     "explanation": "has increased → so has."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_mixed_02",
+     "type": "mixed",
+     "prompt": "Most teenagers own a smartphone, and so ___ many young children.",
+     "options": [
+      "do",
+      "does",
+      "are",
+      "have"
+     ],
+     "answer": [
+      "do"
+     ],
+     "explanation": "own (động từ thường), chủ ngữ sau số nhiều → do."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_mixed_03",
+     "type": "mixed",
+     "prompt": "Tourism was badly affected by the pandemic, and so ___ the airline industry.",
+     "options": [
+      "was",
+      "did",
+      "has",
+      "were"
+     ],
+     "answer": [
+      "was"
+     ],
+     "explanation": "was affected → so was (the airline industry số ít)."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_mixed_04",
+     "type": "mixed",
+     "prompt": "Many cities do not have enough green space, and ___ do most suburbs.",
+     "options": [
+      "neither",
+      "so",
+      "either",
+      "also"
+     ],
+     "answer": [
+      "neither"
+     ],
+     "explanation": "Vế trước phủ định → neither do."
+    },
+    {
+     "id": "gp_so_auxiliary_subject_mixed_05",
+     "type": "mixed",
+     "prompt": "Wind farms can harm wildlife, and so ___ large solar parks.",
+     "options": [
+      "can",
+      "do",
+      "are",
+      "could be"
+     ],
+     "answer": [
+      "can"
+     ],
+     "explanation": "can harm → so can."
+    }
+   ],
+   "order": 3
+  },
+  {
+   "id": "gp_make_object_adjective",
+   "key": "S + make + O + Adj",
+   "name": "Cấu trúc \"khiến cái gì trở nên…\" (make + O + Adj)",
+   "formula": "S + make + O + Adj\nS + make + it + Adj + (for O) + to_V",
+   "meaningVi": "Diễn đạt nguyên nhân dẫn đến một trạng thái — gọn và mạnh hơn \"cause O to become…\", rất hữu ích khi viết về hệ quả trong Task 2.",
+   "notes": "Sau make + O là TÍNH TỪ (không phải trạng từ). Khi tân ngữ là một hành động dài, dùng \"make it + Adj + (for O) + to_V\". Khác với make + O + V (bắt ai làm gì).",
+   "examples": [
+    {
+     "en": "Dark roofs make the problem worse, and so does the lack of vegetation.",
+     "vi": "Mái nhà tối màu khiến vấn đề tệ hơn, và việc thiếu cây xanh cũng vậy.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "In some districts, underground cables and pipes make planting impossible.",
+     "vi": "Ở một số khu, cáp và đường ống ngầm khiến việc trồng cây là không thể.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "High rents make it difficult for young people to live in the city centre.",
+     "vi": "Giá thuê cao khiến người trẻ khó sống ở trung tâm thành phố."
+    }
+   ],
+   "confusedWith": [
+    "S + make + O + V (bắt ai làm gì)",
+    "S + make + O + Adv (sai)"
+   ],
+   "band": 6.5,
+   "group": "Ngữ pháp từ bài đọc",
+   "subgroup": "Cooling the Concrete City",
+   "source": {
+    "doc": "Cooling the Concrete City",
+    "url": null
+   },
+   "exercises": [
+    {
+     "id": "gp_make_object_adjective_fill_01",
+     "type": "fill",
+     "prompt": "High rents make ___ difficult for young people to live in the city centre.",
+     "base": "(đại từ)",
+     "answer": [
+      "it"
+     ],
+     "explanation": "Tân ngữ thật là \"to live…\" ở cuối → dùng \"it\" làm tân ngữ giả."
+    },
+    {
+     "id": "gp_make_object_adjective_fill_02",
+     "type": "fill",
+     "prompt": "Long working hours can make employees less ___.",
+     "base": "(produce)",
+     "answer": [
+      "productive"
+     ],
+     "explanation": "Sau make + O là tính từ: productive."
+    },
+    {
+     "id": "gp_make_object_adjective_fill_03",
+     "type": "fill",
+     "prompt": "Better street lighting makes public spaces ___ at night.",
+     "base": "(safe – so sánh hơn)",
+     "answer": [
+      "safer"
+     ],
+     "explanation": "Tính từ so sánh hơn: safer."
+    },
+    {
+     "id": "gp_make_object_adjective_fill_04",
+     "type": "fill",
+     "prompt": "The internet has made information more ___ to people in remote areas.",
+     "base": "(access)",
+     "answer": [
+      "accessible"
+     ],
+     "explanation": "more + tính từ: accessible."
+    },
+    {
+     "id": "gp_make_object_adjective_fill_05",
+     "type": "fill",
+     "prompt": "Rising sea levels could make some coastal areas ___.",
+     "base": "(inhabit – nghĩa phủ định)",
+     "answer": [
+      "uninhabitable"
+     ],
+     "explanation": "Tính từ phủ định: uninhabitable (không thể ở được)."
+    },
+    {
+     "id": "gp_make_object_adjective_error_01",
+     "type": "error",
+     "prompt": "Heavy traffic makes the air more pollution.",
+     "wrong": "more pollution",
+     "fix": [
+      "more polluted"
+     ],
+     "answer": [
+      "Heavy traffic makes the air more polluted."
+     ],
+     "explanation": "Sau make + O cần tính từ: polluted (không phải danh từ pollution)."
+    },
+    {
+     "id": "gp_make_object_adjective_error_02",
+     "type": "error",
+     "prompt": "The new law makes difficult for companies to hire foreign workers.",
+     "wrong": "makes difficult",
+     "fix": [
+      "makes it difficult"
+     ],
+     "answer": [
+      "The new law makes it difficult for companies to hire foreign workers."
+     ],
+     "explanation": "Tân ngữ thật là to_V ở cuối → cần \"it\": makes it difficult."
+    },
+    {
+     "id": "gp_make_object_adjective_error_03",
+     "type": "error",
+     "prompt": "Online banking has made managing money more easily.",
+     "wrong": "more easily",
+     "fix": [
+      "easier"
+     ],
+     "answer": [
+      "Online banking has made managing money easier."
+     ],
+     "explanation": "Sau make + O dùng tính từ: easier, không dùng trạng từ."
+    },
+    {
+     "id": "gp_make_object_adjective_error_04",
+     "type": "error",
+     "prompt": "Strict deadlines can make students anxiously before exams.",
+     "wrong": "anxiously",
+     "fix": [
+      "anxious"
+     ],
+     "answer": [
+      "Strict deadlines can make students anxious before exams."
+     ],
+     "explanation": "make + O + Adj: anxious."
+    },
+    {
+     "id": "gp_make_object_adjective_error_05",
+     "type": "error",
+     "prompt": "Automation has made many manual jobs unnecessarily.",
+     "wrong": "unnecessarily",
+     "fix": [
+      "unnecessary"
+     ],
+     "answer": [
+      "Automation has made many manual jobs unnecessary."
+     ],
+     "explanation": "make + O + Adj: unnecessary."
+    },
+    {
+     "id": "gp_make_object_adjective_transform_01",
+     "type": "transform",
+     "prompt": "Because of the lack of rain, farming is impossible in this region.",
+     "instruction": "Viết lại dùng \"make\"",
+     "starter": "The lack of rain",
+     "answer": [
+      "The lack of rain makes farming impossible in this region."
+     ],
+     "hints": [
+      {
+       "vi": "canh tác",
+       "en": "farming"
+      },
+      {
+       "vi": "không thể",
+       "en": "impossible"
+      }
+     ],
+     "explanation": "Nguyên nhân làm chủ ngữ + makes + O + Adj."
+    },
+    {
+     "id": "gp_make_object_adjective_transform_02",
+     "type": "transform",
+     "prompt": "Public transport is more convenient because of the new metro line.",
+     "instruction": "Viết lại dùng \"make\"",
+     "starter": "The new metro line",
+     "answer": [
+      "The new metro line makes public transport more convenient.",
+      "The new metro line has made public transport more convenient."
+     ],
+     "hints": [
+      {
+       "vi": "thuận tiện hơn",
+       "en": "more convenient"
+      },
+      {
+       "vi": "tuyến tàu điện ngầm",
+       "en": "metro line"
+      }
+     ],
+     "explanation": "makes + O + more convenient."
+    },
+    {
+     "id": "gp_make_object_adjective_transform_03",
+     "type": "transform",
+     "prompt": "It is hard for small businesses to compete with online giants because of high taxes.",
+     "instruction": "Viết lại dùng \"make it\"",
+     "starter": "High taxes",
+     "answer": [
+      "High taxes make it hard for small businesses to compete with online giants.",
+      "High taxes make it difficult for small businesses to compete with online giants."
+     ],
+     "hints": [
+      {
+       "vi": "cạnh tranh",
+       "en": "compete"
+      },
+      {
+       "vi": "các gã khổng lồ trực tuyến",
+       "en": "online giants"
+      }
+     ],
+     "explanation": "make it + Adj + for O + to_V."
+    },
+    {
+     "id": "gp_make_object_adjective_transform_04",
+     "type": "transform",
+     "prompt": "Cities become noisier and more crowded when tourism grows too quickly.",
+     "instruction": "Viết lại dùng \"make\"",
+     "starter": "Rapid tourism growth",
+     "answer": [
+      "Rapid tourism growth makes cities noisier and more crowded."
+     ],
+     "hints": [
+      {
+       "vi": "ồn ào hơn",
+       "en": "noisier"
+      },
+      {
+       "vi": "đông đúc hơn",
+       "en": "more crowded"
+      }
+     ],
+     "explanation": "makes + cities + Adj."
+    },
+    {
+     "id": "gp_make_object_adjective_transform_05",
+     "type": "transform",
+     "prompt": "Because of social media, it is easier for people to share false information.",
+     "instruction": "Viết lại dùng \"make it\"",
+     "starter": "Social media",
+     "answer": [
+      "Social media makes it easier for people to share false information.",
+      "Social media has made it easier for people to share false information."
+     ],
+     "hints": [
+      {
+       "vi": "thông tin sai lệch",
+       "en": "false information"
+      },
+      {
+       "vi": "dễ hơn",
+       "en": "easier"
+      }
+     ],
+     "explanation": "makes it easier for people to …"
+    },
+    {
+     "id": "gp_make_object_adjective_translate_01",
+     "type": "translate",
+     "prompt": "Ô nhiễm không khí khiến các thành phố lớn kém hấp dẫn đối với khách du lịch.",
+     "answer": [
+      "Air pollution makes big cities less attractive to tourists.",
+      "Air pollution makes large cities less attractive to tourists.",
+      "Air pollution makes major cities less attractive to tourists.",
+      "Air pollution makes big cities less attractive to visitors."
+     ],
+     "hints": [
+      {
+       "vi": "kém hấp dẫn",
+       "en": "less attractive"
+      },
+      {
+       "vi": "khách du lịch",
+       "en": "tourists"
+      }
+     ],
+     "explanation": "makes + O + less attractive."
+    },
+    {
+     "id": "gp_make_object_adjective_translate_02",
+     "type": "translate",
+     "prompt": "Công nghệ khiến việc học ngôn ngữ trở nên dễ dàng hơn.",
+     "answer": [
+      "Technology makes learning languages easier.",
+      "Technology makes language learning easier.",
+      "Technology has made learning languages easier.",
+      "Technology has made language learning easier."
+     ],
+     "hints": [
+      {
+       "vi": "việc học ngôn ngữ",
+       "en": "language learning"
+      },
+      {
+       "vi": "dễ dàng hơn",
+       "en": "easier"
+      }
+     ],
+     "explanation": "makes + O + easier."
+    },
+    {
+     "id": "gp_make_object_adjective_translate_03",
+     "type": "translate",
+     "prompt": "Giá thuê nhà cao khiến sinh viên khó tìm được chỗ ở.",
+     "answer": [
+      "High rents make it difficult for students to find accommodation.",
+      "High rents make it hard for students to find accommodation.",
+      "High rents make it difficult for students to find somewhere to live."
+     ],
+     "hints": [
+      {
+       "vi": "giá thuê nhà",
+       "en": "rents"
+      },
+      {
+       "vi": "chỗ ở",
+       "en": "accommodation"
+      }
+     ],
+     "explanation": "make it difficult for students to find …"
+    },
+    {
+     "id": "gp_make_object_adjective_translate_04",
+     "type": "translate",
+     "prompt": "Hạn hán kéo dài đã khiến nhiều cánh đồng trở nên khô cằn.",
+     "answer": [
+      "The prolonged drought has made many fields dry and barren.",
+      "Prolonged drought has made many fields dry and barren.",
+      "The long drought has made many fields dry and barren.",
+      "The prolonged drought has made many fields barren."
+     ],
+     "hints": [
+      {
+       "vi": "hạn hán kéo dài",
+       "en": "prolonged drought"
+      },
+      {
+       "vi": "khô cằn",
+       "en": "dry and barren"
+      },
+      {
+       "vi": "cánh đồng",
+       "en": "fields"
+      }
+     ],
+     "explanation": "has made + O + Adj."
+    },
+    {
+     "id": "gp_make_object_adjective_translate_05",
+     "type": "translate",
+     "prompt": "Quy định mới khiến các công ty có trách nhiệm hơn với môi trường.",
+     "answer": [
+      "The new regulations make companies more responsible for the environment.",
+      "The new regulations make companies more responsible towards the environment.",
+      "The new regulation makes companies more responsible for the environment.",
+      "The new regulations have made companies more responsible for the environment."
+     ],
+     "hints": [
+      {
+       "vi": "quy định",
+       "en": "regulations"
+      },
+      {
+       "vi": "có trách nhiệm",
+       "en": "responsible"
+      }
+     ],
+     "explanation": "make + companies + more responsible."
+    },
+    {
+     "id": "gp_make_object_adjective_mixed_01",
+     "type": "mixed",
+     "prompt": "Poor public transport makes ___ hard for people in rural areas to find work.",
+     "options": [
+      "it",
+      "this",
+      "that",
+      "them"
+     ],
+     "answer": [
+      "it"
+     ],
+     "explanation": "Tân ngữ giả \"it\" thay cho \"to find work\"."
+    },
+    {
+     "id": "gp_make_object_adjective_mixed_02",
+     "type": "mixed",
+     "prompt": "Regular exercise can make people ___ healthier and happier.",
+     "options": [
+      "feel",
+      "to feel",
+      "feeling",
+      "felt"
+     ],
+     "answer": [
+      "feel"
+     ],
+     "explanation": "Đây là make + O + V (nguyên mẫu không to), khác make + O + Adj."
+    },
+    {
+     "id": "gp_make_object_adjective_mixed_03",
+     "type": "mixed",
+     "prompt": "Smart meters make energy use more ___ for households.",
+     "options": [
+      "transparent",
+      "transparently",
+      "transparency",
+      "transparence"
+     ],
+     "answer": [
+      "transparent"
+     ],
+     "explanation": "make + O + Adj: transparent."
+    },
+    {
+     "id": "gp_make_object_adjective_mixed_04",
+     "type": "mixed",
+     "prompt": "The noise from the airport made it impossible ___ at night.",
+     "options": [
+      "to sleep",
+      "sleeping",
+      "sleep",
+      "slept"
+     ],
+     "answer": [
+      "to sleep"
+     ],
+     "explanation": "make it + Adj + to_V."
+    },
+    {
+     "id": "gp_make_object_adjective_mixed_05",
+     "type": "mixed",
+     "prompt": "Online learning has made education ___ for millions of people.",
+     "options": [
+      "accessible",
+      "accessibly",
+      "access",
+      "accessibility"
+     ],
+     "answer": [
+      "accessible"
+     ],
+     "explanation": "make + O + Adj: accessible."
+    }
+   ],
+   "order": 4
+  },
+  {
+   "id": "gp_gerund_subject",
+   "key": "V_ing (+ O) + V_s",
+   "name": "Danh động từ làm chủ ngữ (Gerund as subject)",
+   "formula": "V_ing (+ O) + V_s / is / has …\nNot + V_ing (+ O) + V_s …",
+   "meaningVi": "Dùng một hành động làm chủ ngữ — cách mở câu rất tự nhiên và học thuật trong Writing Task 2 (\"Investing in…\", \"Reducing…\").",
+   "notes": "Chủ ngữ danh động từ luôn coi là SỐ ÍT → động từ chia số ít, kể cả khi tân ngữ số nhiều (\"Planting trees IS…\"). Không dùng động từ nguyên mẫu làm chủ ngữ.",
+   "examples": [
+    {
+     "en": "Planting trees is the most widely discussed remedy.",
+     "vi": "Trồng cây là biện pháp được bàn đến nhiều nhất.",
+     "source": "Cooling the Concrete City"
+    },
+    {
+     "en": "Investing in public transport reduces traffic congestion.",
+     "vi": "Đầu tư vào giao thông công cộng giúp giảm ùn tắc."
+    },
+    {
+     "en": "Learning a second language improves cognitive skills.",
+     "vi": "Học ngôn ngữ thứ hai cải thiện kỹ năng nhận thức."
+    }
+   ],
+   "confusedWith": [
+    "to_V + V_s (to-V làm chủ ngữ, trang trọng)",
+    "It + is + Adj + to_V"
+   ],
+   "band": 6.0,
+   "group": "Ngữ pháp từ bài đọc",
+   "subgroup": "Cooling the Concrete City",
+   "source": {
+    "doc": "Cooling the Concrete City",
+    "url": null
+   },
+   "exercises": [
+    {
+     "id": "gp_gerund_subject_fill_01",
+     "type": "fill",
+     "prompt": "___ more trees in urban areas can lower summer temperatures.",
+     "base": "(plant)",
+     "answer": [
+      "Planting"
+     ],
+     "explanation": "Hành động làm chủ ngữ → V_ing: Planting."
+    },
+    {
+     "id": "gp_gerund_subject_fill_02",
+     "type": "fill",
+     "prompt": "Recycling plastic bottles ___ the amount of waste sent to landfill.",
+     "base": "(reduce)",
+     "answer": [
+      "reduces"
+     ],
+     "explanation": "Chủ ngữ danh động từ → số ít: reduces."
+    },
+    {
+     "id": "gp_gerund_subject_fill_03",
+     "type": "fill",
+     "prompt": "___ in renewable energy creates thousands of new jobs.",
+     "base": "(invest)",
+     "answer": [
+      "Investing"
+     ],
+     "explanation": "V_ing làm chủ ngữ: Investing."
+    },
+    {
+     "id": "gp_gerund_subject_fill_04",
+     "type": "fill",
+     "prompt": "Working long hours without breaks ___ a negative effect on productivity.",
+     "base": "(have)",
+     "answer": [
+      "has"
+     ],
+     "explanation": "Chủ ngữ danh động từ → has."
+    },
+    {
+     "id": "gp_gerund_subject_fill_05",
+     "type": "fill",
+     "prompt": "Not ___ enough sleep can affect students' academic performance.",
+     "base": "(get)",
+     "answer": [
+      "getting"
+     ],
+     "explanation": "Phủ định của danh động từ: Not + V_ing."
+    },
+    {
+     "id": "gp_gerund_subject_error_01",
+     "type": "error",
+     "prompt": "Reading books regularly improve children's vocabulary.",
+     "wrong": "improve",
+     "fix": [
+      "improves"
+     ],
+     "answer": [
+      "Reading books regularly improves children's vocabulary."
+     ],
+     "explanation": "Chủ ngữ \"Reading books\" là số ít → improves."
+    },
+    {
+     "id": "gp_gerund_subject_error_02",
+     "type": "error",
+     "prompt": "Learn a second language helps people understand other cultures.",
+     "wrong": "Learn",
+     "fix": [
+      "Learning"
+     ],
+     "answer": [
+      "Learning a second language helps people understand other cultures."
+     ],
+     "explanation": "Chủ ngữ là hành động → V_ing: Learning."
+    },
+    {
+     "id": "gp_gerund_subject_error_03",
+     "type": "error",
+     "prompt": "Using public transport instead of cars are better for the environment.",
+     "wrong": "are",
+     "fix": [
+      "is"
+     ],
+     "answer": [
+      "Using public transport instead of cars is better for the environment."
+     ],
+     "explanation": "Chủ ngữ danh động từ → is."
+    },
+    {
+     "id": "gp_gerund_subject_error_04",
+     "type": "error",
+     "prompt": "Spend too much time online can harm teenagers' mental health.",
+     "wrong": "Spend",
+     "fix": [
+      "Spending"
+     ],
+     "answer": [
+      "Spending too much time online can harm teenagers' mental health."
+     ],
+     "explanation": "Chủ ngữ phải là V_ing: Spending."
+    },
+    {
+     "id": "gp_gerund_subject_error_05",
+     "type": "error",
+     "prompt": "Banning cars from city centres have improved air quality in many European cities.",
+     "wrong": "have improved",
+     "fix": [
+      "has improved"
+     ],
+     "answer": [
+      "Banning cars from city centres has improved air quality in many European cities."
+     ],
+     "explanation": "Chủ ngữ \"Banning cars…\" số ít → has improved."
+    },
+    {
+     "id": "gp_gerund_subject_transform_01",
+     "type": "transform",
+     "prompt": "It is essential to protect natural habitats for biodiversity.",
+     "instruction": "Viết lại, bắt đầu bằng danh động từ",
+     "starter": "Protecting",
+     "answer": [
+      "Protecting natural habitats is essential for biodiversity."
+     ],
+     "hints": [
+      {
+       "vi": "môi trường sống tự nhiên",
+       "en": "natural habitats"
+      },
+      {
+       "vi": "đa dạng sinh học",
+       "en": "biodiversity"
+      },
+      {
+       "vi": "thiết yếu",
+       "en": "essential"
+      }
+     ],
+     "explanation": "It is + Adj + to_V → V_ing + is + Adj."
+    },
+    {
+     "id": "gp_gerund_subject_transform_02",
+     "type": "transform",
+     "prompt": "If people eat less meat, greenhouse gas emissions will fall.",
+     "instruction": "Viết lại, bắt đầu bằng danh động từ",
+     "starter": "Eating",
+     "answer": [
+      "Eating less meat will reduce greenhouse gas emissions.",
+      "Eating less meat reduces greenhouse gas emissions.",
+      "Eating less meat will lower greenhouse gas emissions."
+     ],
+     "hints": [
+      {
+       "vi": "khí nhà kính",
+       "en": "greenhouse gas"
+      },
+      {
+       "vi": "giảm",
+       "en": "reduce"
+      },
+      {
+       "vi": "lượng khí thải",
+       "en": "emissions"
+      }
+     ],
+     "explanation": "Hành động \"ăn ít thịt\" làm chủ ngữ: Eating less meat …"
+    },
+    {
+     "id": "gp_gerund_subject_transform_03",
+     "type": "transform",
+     "prompt": "It is not easy to find affordable housing in large cities.",
+     "instruction": "Viết lại, bắt đầu bằng danh động từ",
+     "starter": "Finding",
+     "answer": [
+      "Finding affordable housing in large cities is not easy.",
+      "Finding affordable housing in big cities is not easy."
+     ],
+     "hints": [
+      {
+       "vi": "nhà ở giá phải chăng",
+       "en": "affordable housing"
+      },
+      {
+       "vi": "các thành phố lớn",
+       "en": "large cities"
+      },
+      {
+       "vi": "không dễ",
+       "en": "not easy"
+      }
+     ],
+     "explanation": "Finding … is not easy."
+    },
+    {
+     "id": "gp_gerund_subject_transform_04",
+     "type": "transform",
+     "prompt": "When students take part in volunteer work, they develop useful skills.",
+     "instruction": "Viết lại, bắt đầu bằng danh động từ",
+     "starter": "Taking part",
+     "answer": [
+      "Taking part in volunteer work helps students develop useful skills.",
+      "Taking part in volunteer work helps students to develop useful skills."
+     ],
+     "hints": [
+      {
+       "vi": "công việc tình nguyện",
+       "en": "volunteer work"
+      },
+      {
+       "vi": "giúp",
+       "en": "helps"
+      },
+      {
+       "vi": "kỹ năng hữu ích",
+       "en": "useful skills"
+      }
+     ],
+     "explanation": "Taking part in … + helps (số ít)."
+    },
+    {
+     "id": "gp_gerund_subject_transform_05",
+     "type": "transform",
+     "prompt": "It is very expensive to build new roads.",
+     "instruction": "Viết lại, bắt đầu bằng danh động từ",
+     "starter": "Building",
+     "answer": [
+      "Building new roads is very expensive."
+     ],
+     "hints": [
+      {
+       "vi": "đắt đỏ",
+       "en": "expensive"
+      },
+      {
+       "vi": "xây dựng",
+       "en": "building"
+      },
+      {
+       "vi": "đường mới",
+       "en": "new roads"
+      }
+     ],
+     "explanation": "Building new roads + is."
+    },
+    {
+     "id": "gp_gerund_subject_translate_01",
+     "type": "translate",
+     "prompt": "Trồng cây là cách hiệu quả nhất để làm mát thành phố.",
+     "answer": [
+      "Planting trees is the most effective way to cool cities.",
+      "Planting trees is the most effective way to cool down cities.",
+      "Planting trees is the most effective way of cooling cities.",
+      "Planting trees is the most effective way to cool a city."
+     ],
+     "hints": [
+      {
+       "vi": "hiệu quả nhất",
+       "en": "the most effective"
+      },
+      {
+       "vi": "làm mát",
+       "en": "cool"
+      }
+     ],
+     "explanation": "Planting trees + is (số ít)."
+    },
+    {
+     "id": "gp_gerund_subject_translate_02",
+     "type": "translate",
+     "prompt": "Sử dụng điện thoại khi lái xe rất nguy hiểm.",
+     "answer": [
+      "Using a phone while driving is very dangerous.",
+      "Using a mobile phone while driving is very dangerous.",
+      "Using phones while driving is very dangerous.",
+      "Using a smartphone while driving is very dangerous."
+     ],
+     "hints": [
+      {
+       "vi": "khi lái xe",
+       "en": "while driving"
+      },
+      {
+       "vi": "nguy hiểm",
+       "en": "dangerous"
+      }
+     ],
+     "explanation": "Using … + is."
+    },
+    {
+     "id": "gp_gerund_subject_translate_03",
+     "type": "translate",
+     "prompt": "Học trực tuyến giúp sinh viên tiết kiệm thời gian di chuyển.",
+     "answer": [
+      "Studying online helps students save travel time.",
+      "Learning online helps students save travel time.",
+      "Studying online helps students save time on travel.",
+      "Studying online helps students to save travel time."
+     ],
+     "hints": [
+      {
+       "vi": "tiết kiệm",
+       "en": "save"
+      },
+      {
+       "vi": "thời gian di chuyển",
+       "en": "travel time"
+      }
+     ],
+     "explanation": "Studying online + helps."
+    },
+    {
+     "id": "gp_gerund_subject_translate_04",
+     "type": "translate",
+     "prompt": "Giảm rác thải nhựa đòi hỏi sự hợp tác của cả cộng đồng.",
+     "answer": [
+      "Reducing plastic waste requires the cooperation of the whole community.",
+      "Reducing plastic waste requires cooperation from the whole community.",
+      "Reducing plastic waste requires the cooperation of the entire community."
+     ],
+     "hints": [
+      {
+       "vi": "đòi hỏi",
+       "en": "requires"
+      },
+      {
+       "vi": "sự hợp tác",
+       "en": "cooperation"
+      },
+      {
+       "vi": "cả cộng đồng",
+       "en": "the whole community"
+      }
+     ],
+     "explanation": "Reducing plastic waste + requires."
+    },
+    {
+     "id": "gp_gerund_subject_translate_05",
+     "type": "translate",
+     "prompt": "Không tập thể dục thường xuyên làm tăng nguy cơ mắc bệnh tim.",
+     "answer": [
+      "Not exercising regularly increases the risk of heart disease.",
+      "Not doing exercise regularly increases the risk of heart disease.",
+      "Not exercising regularly raises the risk of heart disease."
+     ],
+     "hints": [
+      {
+       "vi": "tập thể dục thường xuyên",
+       "en": "exercising regularly"
+      },
+      {
+       "vi": "nguy cơ",
+       "en": "risk"
+      },
+      {
+       "vi": "bệnh tim",
+       "en": "heart disease"
+      }
+     ],
+     "explanation": "Not + V_ing làm chủ ngữ + increases."
+    },
+    {
+     "id": "gp_gerund_subject_mixed_01",
+     "type": "mixed",
+     "prompt": "___ fossil fuels releases large amounts of carbon dioxide.",
+     "options": [
+      "Burning",
+      "Burn",
+      "Burned",
+      "Burns"
+     ],
+     "answer": [
+      "Burning"
+     ],
+     "explanation": "Chủ ngữ là hành động → Burning."
+    },
+    {
+     "id": "gp_gerund_subject_mixed_02",
+     "type": "mixed",
+     "prompt": "Encouraging people to cycle ___ traffic and pollution.",
+     "options": [
+      "reduces",
+      "reduce",
+      "reducing",
+      "are reducing"
+     ],
+     "answer": [
+      "reduces"
+     ],
+     "explanation": "Chủ ngữ danh động từ → số ít: reduces."
+    },
+    {
+     "id": "gp_gerund_subject_mixed_03",
+     "type": "mixed",
+     "prompt": "___ a university degree is no longer a guarantee of a good job.",
+     "options": [
+      "Having",
+      "Have",
+      "Has",
+      "Had"
+     ],
+     "answer": [
+      "Having"
+     ],
+     "explanation": "Having a degree làm chủ ngữ."
+    },
+    {
+     "id": "gp_gerund_subject_mixed_04",
+     "type": "mixed",
+     "prompt": "It is important ___ young people about financial planning.",
+     "options": [
+      "to teach",
+      "teaching",
+      "teach",
+      "taught"
+     ],
+     "answer": [
+      "to teach"
+     ],
+     "explanation": "Cấu trúc dễ nhầm: It is + Adj + to_V (không dùng V_ing ở đây)."
+    },
+    {
+     "id": "gp_gerund_subject_mixed_05",
+     "type": "mixed",
+     "prompt": "Providing free school meals ___ improved attendance in many poor areas.",
+     "options": [
+      "has",
+      "have",
+      "having",
+      "are"
+     ],
+     "answer": [
+      "has"
+     ],
+     "explanation": "Chủ ngữ danh động từ → has."
+    }
+   ],
+   "order": 5
+  }
+ ]
+}
