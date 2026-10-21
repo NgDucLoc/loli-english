@@ -1,0 +1,1616 @@
+{
+ "schema": 1,
+ "id": "speaking-noi-o",
+ "version": 1,
+ "title": "Speaking mẫu · Nơi ở",
+ "createdAt": "2026-10-21",
+ "words": [],
+ "decks": [],
+ "passages": [],
+ "writingPrompts": [],
+ "speaking": [
+  {
+   "id": "sp_where_you_live",
+   "unit": "Unit 1 · Bản thân & cuộc sống",
+   "order": 1,
+   "title": "Where you live",
+   "titleVi": "Nơi ở",
+   "summaryVi": "Quê hương, khu phố, ngôi nhà: từ trả lời ngắn Part 1, kể về ngôi nhà thời thơ ấu (Part 2) đến thảo luận nhà ở và đô thị hoá (Part 3).",
+   "topics": [
+    "Where you live",
+    "Buildings"
+   ],
+   "cards": [
+    "Describe your childhood home",
+    "Describe your ideal house",
+    "Describe your favourite room"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "part": 1,
+     "targetBand": 6,
+     "goalVi": "Trả lời câu hỏi Part 1 về nơi ở bằng 3–4 câu: mở đầu tự nhiên, nêu ý chính rồi thêm chi tiết, không lặp lại \"I like\".",
+     "canDo": [
+      "Mô tả quê hoặc khu mình ở theo khung: lead-in → ý chính → chi tiết → ý thứ hai",
+      "Nói thích / không thích bằng ít nhất 3 cách khác \"I like / I don't like\"",
+      "Trả lời câu hỏi \"Would you…?\" bằng câu điều kiện có lý do"
+     ],
+     "frames": [
+      {
+       "id": "fr_describe",
+       "name": "Khung mô tả (Description)",
+       "formula": "Lead-in + pointing phrase + that + Ý 1 → linker + chi tiết → pointing phrase 2 + Ý 2",
+       "explanationVi": "Mở bằng một cụm dẫn (\"Well,…\"), báo hiệu ý đầu tiên (\"the first thing I'd say is that…\"), nêu ý, thêm chi tiết bằng từ nối (\"In fact\", \"especially\"), rồi chuyển sang ý thứ hai (\"On top of that,…\"). Câu trả lời dài hơn và nhiều từ nối hơn thì điểm Fluency cao hơn.",
+       "examples": [
+        "Well, the first thing I'd say about my hometown is that it's a fairly built-up coastal city. In fact, most people live in apartment blocks along the river.",
+        "On top of that, I should mention that the local cuisine is quite distinctive, especially the seafood dishes you find in the night markets."
+       ],
+       "markers": [
+        "the first thing",
+        "i'd say",
+        "i would say",
+        "on top of that",
+        "i should mention",
+        "another thing",
+        "to begin with",
+        "what i'd point out"
+       ]
+      },
+      {
+       "id": "fr_liking",
+       "name": "Diễn đạt \"thích\" (Liking)",
+       "formula": "I'm (really) into… / I'm quite keen on… / I'm a big fan of… / What I love most about X is that + S + V",
+       "explanationVi": "Giám khảo hỏi \"Do you like…?\" thì đừng đáp \"Yes, I like…\" (lặp lại từ trong câu hỏi). Dùng 2–3 cách diễn đạt khác nhau trong một câu trả lời.",
+       "examples": [
+        "What I love most about my neighbourhood is that everything is within walking distance.",
+        "I'm quite keen on the parks near my flat, and I'm a big fan of the street food there."
+       ],
+       "markers": [
+        "keen on",
+        "really into",
+        "big fan of",
+        "what i love",
+        "i adore",
+        "appeals to me"
+       ]
+      },
+      {
+       "id": "fr_disliking",
+       "name": "Diễn đạt \"không thích\" (Disliking)",
+       "formula": "It's not really my cup of tea / I can't stand… / If I'm honest, the one thing that bothers me is that + S + V",
+       "explanationVi": "Nói điều không thích một cách mềm mại, có lý do, thay vì \"I don't like\".",
+       "examples": [
+        "If I'm honest, the one thing that bothers me is the traffic congestion during rush hour.",
+        "Living right next to a market isn't really my cup of tea, because it gets noisy from five in the morning."
+       ],
+       "markers": [
+        "cup of tea",
+        "can't stand",
+        "bothers me",
+        "not a big fan",
+        "gets on my nerves",
+        "drives me crazy"
+       ]
+      },
+      {
+       "id": "fr_would",
+       "name": "Câu hỏi \"Would…?\" (giả định)",
+       "formula": "I'd probably + V, mainly because… / If I had the chance, I'd + V / I don't think I'd + V, since…",
+       "explanationVi": "Câu hỏi bắt đầu bằng \"Would you…?\" là câu giả định: trả lời bằng \"I'd…\" và câu điều kiện loại 2 (If + quá khứ, would + V), kèm lý do.",
+       "examples": [
+        "If I had the chance, I'd move somewhere a bit greener, mainly because I'd love to have a garden.",
+        "I don't think I'd ever leave my hometown for good, since all my family live there."
+       ],
+       "markers": [
+        "if i had",
+        "i'd probably",
+        "i would probably",
+        "if i could",
+        "i don't think i'd",
+        "i'd love to"
+       ]
+      }
+     ],
+     "vocab": [
+      {
+       "lemma": "residential area",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "khu dân cư",
+       "example": "I live in a quiet residential area on the edge of the city."
+      },
+      {
+       "lemma": "neighbourhood",
+       "pos": "n",
+       "kind": "noun",
+       "meaningVi": "khu phố, khu lân cận",
+       "example": "My neighbourhood is full of small cafés."
+      },
+      {
+       "lemma": "suburb",
+       "pos": "n",
+       "kind": "noun",
+       "meaningVi": "vùng ngoại ô",
+       "example": "We moved to the suburbs when I was ten."
+      },
+      {
+       "lemma": "built-up",
+       "pos": "adj",
+       "kind": "adj",
+       "meaningVi": "nhiều nhà cửa, đông đúc xây dựng",
+       "example": "The city centre is very built-up now."
+      },
+      {
+       "lemma": "sprawling",
+       "pos": "adj",
+       "kind": "adj",
+       "meaningVi": "trải rộng, lan rộng (thành phố)",
+       "example": "Hanoi has become a sprawling city."
+      },
+      {
+       "lemma": "bustling",
+       "pos": "adj",
+       "kind": "adj",
+       "meaningVi": "nhộn nhịp, tấp nập",
+       "example": "The street outside my flat is bustling day and night."
+      },
+      {
+       "lemma": "run-down",
+       "pos": "adj",
+       "kind": "idiom",
+       "meaningVi": "xuống cấp, tồi tàn",
+       "example": "Some of the older buildings are a bit run-down."
+      },
+      {
+       "lemma": "up-market",
+       "pos": "adj",
+       "kind": "idiom",
+       "meaningVi": "sang trọng, cao cấp",
+       "example": "That part of town has become quite up-market."
+      },
+      {
+       "lemma": "amenities",
+       "pos": "n",
+       "kind": "noun",
+       "meaningVi": "tiện ích (chợ, trường, công viên…)",
+       "example": "There are plenty of amenities within walking distance."
+      },
+      {
+       "lemma": "commute",
+       "pos": "v/n",
+       "kind": "verb",
+       "meaningVi": "đi lại (nhà ↔ nơi làm/học)",
+       "example": "I commute about forty minutes to university."
+      },
+      {
+       "lemma": "local cuisine",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "ẩm thực địa phương",
+       "example": "The local cuisine is famous for its noodle soups."
+      },
+      {
+       "lemma": "close-knit community",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "cộng đồng gắn bó",
+       "example": "It is a close-knit community where everyone knows each other."
+      },
+      {
+       "lemma": "traffic congestion",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "tắc nghẽn giao thông",
+       "example": "Traffic congestion is a real problem at rush hour."
+      }
+     ],
+     "questions": [
+      "Tell me about your hometown.",
+      "Do you live in a house or an apartment?",
+      "What do you like about the area where you live?",
+      "Is there anything you don't like about it?",
+      "Would you like to move to another city in the future?",
+      "What would you change about your neighbourhood?"
+     ],
+     "cueCard": null,
+     "passRule": {
+      "framesUsed": 2,
+      "vocabUsed": 3,
+      "band": 6
+     },
+     "fallback": [
+      {
+       "step": "grammar",
+       "kind": "order",
+       "variant": "frame-order",
+       "titleVi": "Ghép câu trả lời theo khung mô tả",
+       "instructionVi": "Chạm các mảnh theo đúng thứ tự của khung: lead-in → ý chính → chi tiết → ý thứ hai.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "Tell me about your hometown.",
+         "options": [
+          "Well,",
+          "the first thing I'd say is that",
+          "my hometown is a fairly built-up city by the sea.",
+          "In fact,",
+          "most people live in apartment blocks.",
+          "On top of that,",
+          "the local cuisine is quite distinctive."
+         ],
+         "answers": [],
+         "explainVi": "Lead-in \"Well,\" → pointing phrase → ý 1 → \"In fact\" + chi tiết → \"On top of that\" + ý 2."
+        },
+        {
+         "prompt": "What do you like about the area where you live?",
+         "options": [
+          "Actually,",
+          "what I love most about it is that",
+          "everything is within walking distance.",
+          "Especially",
+          "the little market at the end of my street.",
+          "I'm also quite keen on",
+          "the park nearby."
+         ],
+         "answers": [],
+         "explainVi": "Lead-in \"Actually,\" → cách nói \"thích\" thay cho \"I like\" → chi tiết bằng \"Especially\" → cách nói thích thứ hai."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "grammar",
+       "kind": "fill",
+       "variant": "frame-fill",
+       "titleVi": "Điền cụm còn thiếu",
+       "instructionVi": "Điền một từ hoặc cụm từ để câu nghe tự nhiên.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "Well, the first thing I'd ___ is that my street is quite narrow.",
+         "options": [],
+         "answers": [
+          "say",
+          "mention"
+         ],
+         "explainVi": "\"the first thing I'd say / mention is that…\" là cụm báo hiệu ý đầu tiên."
+        },
+        {
+         "prompt": "I'm quite keen ___ the parks near my flat.",
+         "options": [],
+         "answers": [
+          "on"
+         ],
+         "explainVi": "keen on + danh từ / V-ing."
+        },
+        {
+         "prompt": "Living next to a busy road isn't really my cup of ___.",
+         "options": [],
+         "answers": [
+          "tea"
+         ],
+         "explainVi": "\"not my cup of tea\" = không hợp gu, không thích."
+        },
+        {
+         "prompt": "If I ___ the chance, I'd move somewhere quieter.",
+         "options": [],
+         "answers": [
+          "had",
+          "got"
+         ],
+         "explainVi": "Câu điều kiện loại 2: If + quá khứ đơn, would + V."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "grammar",
+       "kind": "produce",
+       "variant": "upgrade",
+       "titleVi": "Nâng cấp câu trả lời band 5",
+       "instructionVi": "Nói (hoặc gõ) lại câu trả lời dưới đây theo khung mô tả, dài 3–4 câu.",
+       "body": "Q: Tell me about your hometown.\nBand 5: \"My hometown is Da Nang. It is big. It has beaches. I like it.\"",
+       "items": [],
+       "mustUse": [
+        "the first thing I'd say",
+        "on top of that",
+        "bustling"
+       ],
+       "model": "Well, the first thing I'd say about my hometown, Da Nang, is that it's a bustling coastal city that has grown incredibly fast. In fact, there are new high-rise hotels along the beach almost every year. On top of that, I should mention that the local cuisine is fantastic, especially the seafood.",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "vocab",
+       "kind": "fill",
+       "variant": "vocab-swap",
+       "titleVi": "Thay từ phổ thông bằng từ hay hơn",
+       "instructionVi": "Gõ từ trong bài thay cho từ trong ngoặc vuông.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "My city is [very big and spreads out] ___ .",
+         "options": [],
+         "answers": [
+          "sprawling"
+         ],
+         "explainVi": "sprawling = trải rộng (thành phố)."
+        },
+        {
+         "prompt": "The street outside my flat is [busy and full of people] ___ .",
+         "options": [],
+         "answers": [
+          "bustling"
+         ],
+         "explainVi": "bustling = nhộn nhịp."
+        },
+        {
+         "prompt": "Some old buildings in my area are [in bad condition] ___ .",
+         "options": [],
+         "answers": [
+          "run-down",
+          "run down"
+         ],
+         "explainVi": "run-down = xuống cấp."
+        },
+        {
+         "prompt": "That neighbourhood has become quite [expensive and fashionable] ___ .",
+         "options": [],
+         "answers": [
+          "up-market",
+          "upmarket",
+          "up market"
+         ],
+         "explainVi": "up-market = sang, cao cấp."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "vocab",
+       "kind": "choice",
+       "variant": "guess-word",
+       "titleVi": "Đoán từ qua lời giải thích",
+       "instructionVi": "Chọn từ khớp với lời giải thích tiếng Anh.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "Useful places near your home, such as shops, schools and parks.",
+         "options": [
+          "amenities",
+          "suburb",
+          "commute",
+          "cuisine"
+         ],
+         "answers": [
+          "amenities"
+         ],
+         "explainVi": "amenities = tiện ích."
+        },
+        {
+         "prompt": "The journey you make every day between home and work or school.",
+         "options": [
+          "commute",
+          "congestion",
+          "amenities",
+          "neighbourhood"
+         ],
+         "answers": [
+          "commute"
+         ],
+         "explainVi": "commute = đi lại hằng ngày."
+        },
+        {
+         "prompt": "An area on the edge of a city where people live, usually quieter than the centre.",
+         "options": [
+          "suburb",
+          "residential",
+          "bustling",
+          "up-market"
+         ],
+         "answers": [
+          "suburb"
+         ],
+         "explainVi": "suburb = ngoại ô."
+        },
+        {
+         "prompt": "A group of people who know and help each other.",
+         "options": [
+          "close-knit community",
+          "traffic congestion",
+          "local cuisine",
+          "residential area"
+         ],
+         "answers": [
+          "close-knit community"
+         ],
+         "explainVi": "close-knit community = cộng đồng gắn bó."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "vocab",
+       "kind": "choice",
+       "variant": "collocation",
+       "titleVi": "Ghép collocation",
+       "instructionVi": "Chọn từ đi kèm tự nhiên nhất.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "a quiet ___ area",
+         "options": [
+          "residential",
+          "living",
+          "housing",
+          "home"
+         ],
+         "answers": [
+          "residential"
+         ],
+         "explainVi": "residential area = khu dân cư."
+        },
+        {
+         "prompt": "traffic ___ at rush hour",
+         "options": [
+          "congestion",
+          "crowd",
+          "busy",
+          "jam-packed"
+         ],
+         "answers": [
+          "congestion"
+         ],
+         "explainVi": "traffic congestion (hoặc traffic jam)."
+        },
+        {
+         "prompt": "the local ___ is famous for noodle soup",
+         "options": [
+          "cuisine",
+          "cooking food",
+          "kitchen",
+          "menu"
+         ],
+         "answers": [
+          "cuisine"
+         ],
+         "explainVi": "local cuisine = ẩm thực địa phương."
+        },
+        {
+         "prompt": "a close-___ community",
+         "options": [
+          "knit",
+          "tied",
+          "near",
+          "tight"
+         ],
+         "answers": [
+          "knit"
+         ],
+         "explainVi": "close-knit community."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "sentence",
+       "kind": "produce",
+       "variant": "speak-30",
+       "titleVi": "Nói 30 giây",
+       "instructionVi": "Trả lời câu hỏi trong 30 giây, dùng các từ bắt buộc.",
+       "body": "What do you like about the area where you live?",
+       "items": [],
+       "mustUse": [
+        "amenities",
+        "within walking distance",
+        "what I love most"
+       ],
+       "model": "Actually, what I love most about my area is that all the amenities are within walking distance, so I hardly ever need my motorbike. I'm also quite keen on the little park nearby, especially early in the morning.",
+       "seconds": 30,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "sentence",
+       "kind": "produce",
+       "variant": "vi-to-en",
+       "titleVi": "Ý tiếng Việt → nói tiếng Anh",
+       "instructionVi": "Nói ý dưới đây bằng tiếng Anh, dùng cụm được gợi ý.",
+       "body": "Thật lòng mà nói, điều duy nhất làm tôi khó chịu là tắc đường vào giờ cao điểm, vì tôi mất gần một tiếng để đi học.",
+       "items": [],
+       "mustUse": [
+        "bothers me",
+        "traffic congestion",
+        "commute"
+       ],
+       "model": "If I'm honest, the one thing that bothers me is the traffic congestion at rush hour, because my commute to university takes almost an hour.",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "sentence",
+       "kind": "produce",
+       "variant": "extend",
+       "titleVi": "Kéo dài câu trả lời",
+       "instructionVi": "Biến câu trả lời một câu thành 3 ý có từ nối.",
+       "body": "Q: Would you like to move to another city in the future?\nA: \"Yes, I would like to move to Ho Chi Minh City.\"",
+       "items": [],
+       "mustUse": [
+        "I'd probably",
+        "mainly because"
+       ],
+       "model": "I'd probably move to Ho Chi Minh City at some point, mainly because there are far more job opportunities there. In fact, a lot of my friends have already moved. That said, I don't think I'd stay forever, since I'd miss my family.",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "talk",
+       "kind": "talk",
+       "variant": "mock",
+       "titleVi": "Thi thử Part 1 — Nơi ở",
+       "instructionVi": "Trả lời từng câu hỏi bằng 3–4 câu, dùng khung câu và từ của bài.",
+       "body": "",
+       "items": [],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "A friendly, neutral IELTS examiner.",
+       "questions": [
+        "Let's talk about where you live. Tell me about your hometown.",
+        "Do you live in a house or an apartment?",
+        "What do you like about the area where you live?",
+        "Is there anything you don't like about it?",
+        "Would you like to move to another city in the future?"
+       ],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "talk",
+       "kind": "talk",
+       "variant": "rapid-fire",
+       "titleVi": "Hỏi nhanh liên tục",
+       "instructionVi": "Giám khảo hỏi nhanh nhiều câu ngắn — trả lời ngay, mỗi câu 2–3 câu.",
+       "body": "",
+       "items": [],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "A brisk examiner who moves quickly from one question to the next.",
+       "questions": [
+        "Where is your hometown?",
+        "What is the best thing about it?",
+        "How do you usually get around?",
+        "Is it a good place for young people?",
+        "What would you change about your neighbourhood?",
+        "Would you recommend your area to a visitor?"
+       ],
+       "cueTopic": "",
+       "cuePrompts": []
+      }
+     ]
+    },
+    {
+     "level": 2,
+     "part": 2,
+     "targetBand": 6.5,
+     "goalVi": "Nói liền 1,5–2 phút về một cue card: mỗi gợi ý mở bằng một câu nối cố định, có chi tiết, có thì quá khứ và hiện tại hoàn thành.",
+     "canDo": [
+      "Mở mỗi gợi ý trên cue card bằng một câu nối đã luyện, giữ nguyên cấu trúc gợi ý",
+      "Kể thói quen trong quá khứ bằng used to / would",
+      "Nối quá khứ với hiện tại bằng thì hiện tại hoàn thành"
+     ],
+     "frames": [
+      {
+       "id": "fr_p2open",
+       "name": "Mở bài Part 2 (gợi ý 1)",
+       "formula": "I guess I could begin by saying something about + [gợi ý 1], and…",
+       "explanationVi": "Ghép nguyên văn gợi ý 1 vào câu nối mở đầu (đổi \"you\" thành \"I\"). Câu này vừa cho bạn thời gian nghĩ vừa là một câu phức.",
+       "examples": [
+        "I guess I could begin by saying something about where it was, and I'd have to say it was tucked away in a narrow alley in the old quarter."
+       ],
+       "markers": [
+        "i could begin by",
+        "begin by saying",
+        "let me start with",
+        "to start with"
+       ]
+      },
+      {
+       "id": "fr_p2next",
+       "name": "Chuyển sang gợi ý 2–3",
+       "formula": "Moving on to + [gợi ý], I really need to mention that… / As for + [gợi ý], the point I'd like to make is that…",
+       "explanationVi": "Mỗi gợi ý giữa bài mở bằng một câu chuyển khác nhau, không lặp lại cùng một câu.",
+       "examples": [
+        "Moving on to what it looked like, I really need to mention that it was a tiny two-storey house with a courtyard at the back.",
+        "As for who I lived there with, the point I'd like to make is that it was a typical extended family."
+       ],
+       "markers": [
+        "moving on to",
+        "as for",
+        "the point i'd like to make",
+        "when it comes to"
+       ]
+      },
+      {
+       "id": "fr_p2last",
+       "name": "Gợi ý cuối (explain…)",
+       "formula": "And finally, in answer to the question of + [gợi ý], I'd have to say that…",
+       "explanationVi": "Gợi ý cuối thường là \"explain…\": đây là chỗ nói cảm xúc và lý do, dùng câu phức dài nhất.",
+       "examples": [
+        "And finally, in answer to the question of how I felt about living there, I'd have to say that I look back on those years with really fond memories."
+       ],
+       "markers": [
+        "and finally",
+        "in answer to",
+        "i'd have to say",
+        "last but not least"
+       ]
+      },
+      {
+       "id": "fr_usedto",
+       "name": "Thói quen quá khứ: used to / would",
+       "formula": "S + used to + V (trạng thái, thói quen đã hết) · S + would + V (hành động lặp lại trong quá khứ)",
+       "explanationVi": "\"used to\" dùng cho cả trạng thái lẫn hành động; \"would\" chỉ dùng cho hành động lặp lại (không dùng cho trạng thái như live, have, be).",
+       "examples": [
+        "We used to live with my grandparents.",
+        "Every summer evening, we would sit in the courtyard and chat."
+       ],
+       "markers": [
+        "used to",
+        "we would",
+        "i would often",
+        "would always"
+       ]
+      },
+      {
+       "id": "fr_perfect",
+       "name": "Hiện tại hoàn thành: nối quá khứ – hiện tại",
+       "formula": "S + have/has + V3 + since/for… · It's been + thời gian + since + S + V2",
+       "explanationVi": "Dùng để nói điều đã thay đổi đến nay hoặc khoảng thời gian từ quá khứ đến hiện tại.",
+       "examples": [
+        "It's been almost ten years since we moved out.",
+        "The house has been renovated twice since then."
+       ],
+       "markers": [
+        "have lived",
+        "i've lived",
+        "it's been",
+        "has been",
+        "have been",
+        "since we"
+       ]
+      }
+     ],
+     "vocab": [
+      {
+       "lemma": "cramped",
+       "pos": "adj",
+       "kind": "adj",
+       "meaningVi": "chật chội",
+       "example": "My bedroom was quite cramped, but I loved it."
+      },
+      {
+       "lemma": "spacious",
+       "pos": "adj",
+       "kind": "adj",
+       "meaningVi": "rộng rãi",
+       "example": "The living room was surprisingly spacious."
+      },
+      {
+       "lemma": "cosy",
+       "pos": "adj",
+       "kind": "adj",
+       "meaningVi": "ấm cúng",
+       "example": "It was small but very cosy in winter."
+      },
+      {
+       "lemma": "tucked away",
+       "pos": "adj",
+       "kind": "idiom",
+       "meaningVi": "nằm khuất, ẩn mình",
+       "example": "The house was tucked away at the end of a lane."
+      },
+      {
+       "lemma": "a stone's throw from",
+       "pos": "phr",
+       "kind": "idiom",
+       "meaningVi": "rất gần, cách vài bước",
+       "example": "It was a stone's throw from my primary school."
+      },
+      {
+       "lemma": "courtyard",
+       "pos": "n",
+       "kind": "noun",
+       "meaningVi": "sân trong",
+       "example": "We had a small courtyard full of plants."
+      },
+      {
+       "lemma": "extended family",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "đại gia đình (nhiều thế hệ)",
+       "example": "I grew up in an extended family of nine people."
+      },
+      {
+       "lemma": "renovate",
+       "pos": "v",
+       "kind": "verb",
+       "meaningVi": "cải tạo, sửa sang",
+       "example": "My parents renovated the kitchen last year."
+      },
+      {
+       "lemma": "sentimental value",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "giá trị tình cảm",
+       "example": "The house has a lot of sentimental value for me."
+      },
+      {
+       "lemma": "look back on",
+       "pos": "phr v",
+       "kind": "phrase",
+       "meaningVi": "nhìn lại, hồi tưởng",
+       "example": "I look back on my childhood there with pleasure."
+      },
+      {
+       "lemma": "fond memories",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "kỷ niệm đẹp",
+       "example": "I have very fond memories of that place."
+      }
+     ],
+     "questions": [
+      "Do you still visit that place?",
+      "Would you like your own children to grow up in a similar home?"
+     ],
+     "cueCard": {
+      "topic": "Describe your childhood home.",
+      "prompts": [
+       "where it was",
+       "what it looked like",
+       "who you lived there with",
+       "and explain how you felt about living there"
+      ]
+     },
+     "passRule": {
+      "framesUsed": 3,
+      "vocabUsed": 4,
+      "band": 6.5
+     },
+     "fallback": [
+      {
+       "step": "grammar",
+       "kind": "order",
+       "variant": "frame-order",
+       "titleVi": "Ghép câu nối Part 2",
+       "instructionVi": "Ghép các mảnh thành câu mở đầu cho từng gợi ý.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "Gợi ý 1: where it was",
+         "options": [
+          "I guess I could begin by saying something about",
+          "where it was,",
+          "and I'd have to say",
+          "it was tucked away",
+          "in a narrow alley."
+         ],
+         "answers": [],
+         "explainVi": "Câu nối + nguyên văn gợi ý + ý chính."
+        },
+        {
+         "prompt": "Gợi ý 4: explain how you felt about living there",
+         "options": [
+          "And finally,",
+          "in answer to the question of",
+          "how I felt about living there,",
+          "I'd have to say that",
+          "I look back on it with fond memories."
+         ],
+         "answers": [],
+         "explainVi": "Gợi ý cuối: \"And finally, in answer to the question of…\""
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "grammar",
+       "kind": "fill",
+       "variant": "frame-fill",
+       "titleVi": "used to hay would?",
+       "instructionVi": "Điền \"used to\" hoặc \"would\". Có câu điền được cả hai.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "We ___ live in a small house near the market.",
+         "options": [],
+         "answers": [
+          "used to"
+         ],
+         "explainVi": "\"live\" là trạng thái → chỉ dùng used to."
+        },
+        {
+         "prompt": "Every evening my grandmother ___ tell us stories.",
+         "options": [],
+         "answers": [
+          "would",
+          "used to"
+         ],
+         "explainVi": "Hành động lặp lại → would hoặc used to đều được."
+        },
+        {
+         "prompt": "There ___ be a big mango tree in the courtyard.",
+         "options": [],
+         "answers": [
+          "used to"
+         ],
+         "explainVi": "\"There used to be…\" = trước đây từng có."
+        },
+        {
+         "prompt": "It's ___ almost ten years since we moved out.",
+         "options": [],
+         "answers": [
+          "been"
+         ],
+         "explainVi": "It's been + thời gian + since…"
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "grammar",
+       "kind": "produce",
+       "variant": "upgrade",
+       "titleVi": "Nâng cấp đoạn nói",
+       "instructionVi": "Nói lại đoạn sau cho gợi ý \"what it looked like\", dùng câu nối và used to/would.",
+       "body": "Band 5: \"My house was small. It had two floors. There was a tree. I played there.\"",
+       "items": [],
+       "mustUse": [
+        "moving on to",
+        "used to",
+        "courtyard"
+       ],
+       "model": "Moving on to what it looked like, I really need to mention that it was a fairly cramped two-storey house, but it had a lovely courtyard at the back. There used to be a huge mango tree there, and my cousins and I would spend hours climbing it.",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "vocab",
+       "kind": "choice",
+       "variant": "guess-word",
+       "titleVi": "Đoán từ qua lời giải thích",
+       "instructionVi": "Chọn từ khớp với lời giải thích.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "Small and crowded, with not enough space.",
+         "options": [
+          "cramped",
+          "spacious",
+          "cosy",
+          "tucked away"
+         ],
+         "answers": [
+          "cramped"
+         ],
+         "explainVi": "cramped = chật chội."
+        },
+        {
+         "prompt": "Warm, comfortable and pleasant, often because it is small.",
+         "options": [
+          "cosy",
+          "cramped",
+          "spacious",
+          "renovated"
+         ],
+         "answers": [
+          "cosy"
+         ],
+         "explainVi": "cosy = ấm cúng."
+        },
+        {
+         "prompt": "Very close to somewhere.",
+         "options": [
+          "a stone's throw from",
+          "tucked away",
+          "look back on",
+          "extended family"
+         ],
+         "answers": [
+          "a stone's throw from"
+         ],
+         "explainVi": "a stone's throw from = rất gần."
+        },
+        {
+         "prompt": "Grandparents, aunts, uncles and cousins living together or close by.",
+         "options": [
+          "extended family",
+          "close-knit community",
+          "sentimental value",
+          "courtyard"
+         ],
+         "answers": [
+          "extended family"
+         ],
+         "explainVi": "extended family = đại gia đình."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "vocab",
+       "kind": "choice",
+       "variant": "collocation",
+       "titleVi": "Ghép collocation",
+       "instructionVi": "Chọn từ đi kèm tự nhiên nhất.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "I have very ___ memories of that house.",
+         "options": [
+          "fond",
+          "lovely good",
+          "deep",
+          "sweet-like"
+         ],
+         "answers": [
+          "fond"
+         ],
+         "explainVi": "fond memories = kỷ niệm đẹp."
+        },
+        {
+         "prompt": "The house has a lot of ___ value for me.",
+         "options": [
+          "sentimental",
+          "emotion",
+          "feeling",
+          "heart"
+         ],
+         "answers": [
+          "sentimental"
+         ],
+         "explainVi": "sentimental value."
+        },
+        {
+         "prompt": "I often look ___ on those days.",
+         "options": [
+          "back",
+          "after",
+          "up",
+          "over"
+         ],
+         "answers": [
+          "back"
+         ],
+         "explainVi": "look back on = hồi tưởng."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "sentence",
+       "kind": "produce",
+       "variant": "chain",
+       "titleVi": "Chuỗi câu nối cho cả cue card",
+       "instructionVi": "Nói 4 câu mở đầu cho 4 gợi ý (mỗi câu thêm một ý ngắn).",
+       "body": "Describe your childhood home.\nYou should say: where it was; what it looked like; who you lived there with; and explain how you felt about living there",
+       "items": [],
+       "mustUse": [
+        "I could begin by",
+        "moving on to",
+        "as for",
+        "and finally"
+       ],
+       "model": "I guess I could begin by saying something about where it was, and it was in a quiet lane in the old quarter. Moving on to what it looked like, I really need to mention that it was a cramped but cosy two-storey house. As for who I lived there with, the point I'd like to make is that it was a big extended family. And finally, in answer to the question of how I felt about living there, I'd have to say that I look back on it with fond memories.",
+       "seconds": 90,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "sentence",
+       "kind": "produce",
+       "variant": "vi-to-en",
+       "titleVi": "Ý tiếng Việt → nói tiếng Anh",
+       "instructionVi": "Nói ý sau bằng tiếng Anh.",
+       "body": "Đã gần mười năm kể từ khi nhà tôi chuyển đi, nhưng ngôi nhà đó vẫn có giá trị tình cảm rất lớn với tôi.",
+       "items": [],
+       "mustUse": [
+        "it's been",
+        "sentimental value"
+       ],
+       "model": "It's been almost ten years since we moved out, but that house still has a lot of sentimental value for me.",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "talk",
+       "kind": "talk",
+       "variant": "mock",
+       "titleVi": "Thi thử Part 2 — Ngôi nhà thời thơ ấu",
+       "instructionVi": "Đọc cue card, chuẩn bị 1 phút, rồi nói liền tối đa 2 phút.",
+       "body": "",
+       "items": [],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "A friendly, neutral IELTS examiner running Part 2.",
+       "questions": [
+        "Do you still visit that place?",
+        "Would you like your own children to grow up in a similar home?"
+       ],
+       "cueTopic": "Describe your childhood home.",
+       "cuePrompts": [
+        "where it was",
+        "what it looked like",
+        "who you lived there with",
+        "and explain how you felt about living there"
+       ]
+      }
+     ]
+    },
+    {
+     "level": 3,
+     "part": 3,
+     "targetBand": 7,
+     "goalVi": "Thảo luận các vấn đề về nhà ở và đô thị: so sánh, dự đoán, nêu ưu/nhược điểm và giải pháp bằng các khung câu Part 3.",
+     "canDo": [
+      "So sánh hai thứ bằng whereas / while on the other hand thay vì liệt kê",
+      "So sánh xưa – nay bằng used to + hiện tại / hiện tại hoàn thành",
+      "Dự đoán và đề xuất giải pháp bằng câu phức"
+     ],
+     "frames": [
+      {
+       "id": "fr_compare",
+       "name": "So sánh (Comparing)",
+       "formula": "Well obviously there are a number of differences. I suppose the most significant would be that + S + V, whereas + S + V. On top of this, another distinction might be that…, while on the other hand…",
+       "explanationVi": "Điểm không nằm ở số khác biệt mà ở cấu trúc so sánh: chỉ cần 2 khác biệt, mỗi cái nói bằng một cặp mệnh đề nối bằng whereas / while on the other hand.",
+       "examples": [
+        "I suppose the most significant difference would be that young people prefer city apartments, whereas older people tend to stay in the family house."
+       ],
+       "markers": [
+        "whereas",
+        "while on the other hand",
+        "the most significant",
+        "in contrast",
+        "another distinction"
+       ]
+      },
+      {
+       "id": "fr_past_now",
+       "name": "So sánh xưa – nay",
+       "formula": "X used to + V…, but nowadays X + V (hiện tại) · X has/have + V3 (sự thay đổi)",
+       "explanationVi": "Câu hỏi \"How have homes changed…?\" thực chất là so sánh quá khứ với hiện tại.",
+       "examples": [
+        "Homes used to be much bigger and shared by three generations, but nowadays most young couples live on their own.",
+        "Property prices have soared over the last decade."
+       ],
+       "markers": [
+        "used to",
+        "nowadays",
+        "these days",
+        "has changed",
+        "have become",
+        "have soared"
+       ]
+      },
+      {
+       "id": "fr_predict",
+       "name": "Dự đoán (Predicting)",
+       "formula": "I'd imagine that… will probably… / It's quite likely that… / In the foreseeable future, …",
+       "explanationVi": "Dùng nhiều cách diễn đạt tương lai khác nhau, kèm mức độ chắc chắn.",
+       "examples": [
+        "I'd imagine that people will probably live in smaller, high-density flats in the foreseeable future."
+       ],
+       "markers": [
+        "i'd imagine",
+        "likely that",
+        "in the foreseeable future",
+        "will probably",
+        "is bound to"
+       ]
+      },
+      {
+       "id": "fr_advdis",
+       "name": "Ưu điểm – nhược điểm",
+       "formula": "One clear advantage is that… / The main drawback, though, is that… / Not to mention the fact that…",
+       "explanationVi": "Mỗi ưu/nhược điểm cần một câu giải thích hoặc ví dụ đi kèm.",
+       "examples": [
+        "One clear advantage of high-rise living is that it saves land. The main drawback, though, is the lack of green space."
+       ],
+       "markers": [
+        "one clear advantage",
+        "the main drawback",
+        "a major downside",
+        "not to mention",
+        "on the plus side"
+       ]
+      },
+      {
+       "id": "fr_problem",
+       "name": "Vấn đề – giải pháp",
+       "formula": "One fundamental concern is that… / The most effective way to tackle this would be to + V",
+       "explanationVi": "Nêu vấn đề rồi đề xuất giải pháp bằng câu có would / could.",
+       "examples": [
+        "One fundamental concern is the housing shortage. The most effective way to tackle this would be to build more affordable housing near transport links."
+       ],
+       "markers": [
+        "one fundamental concern",
+        "tackle",
+        "the most effective way",
+        "a possible solution"
+       ]
+      }
+     ],
+     "vocab": [
+      {
+       "lemma": "urbanisation",
+       "pos": "n",
+       "kind": "noun",
+       "meaningVi": "đô thị hoá",
+       "example": "Rapid urbanisation has changed the way people live."
+      },
+      {
+       "lemma": "housing shortage",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "thiếu nhà ở",
+       "example": "Big cities are facing a serious housing shortage."
+      },
+      {
+       "lemma": "affordable housing",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "nhà ở giá phải chăng",
+       "example": "The government should invest in affordable housing."
+      },
+      {
+       "lemma": "urban sprawl",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "sự lan rộng đô thị",
+       "example": "Urban sprawl swallows up farmland."
+      },
+      {
+       "lemma": "infrastructure",
+       "pos": "n",
+       "kind": "noun",
+       "meaningVi": "cơ sở hạ tầng",
+       "example": "The infrastructure cannot keep up with the population."
+      },
+      {
+       "lemma": "rural-urban migration",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "di cư từ nông thôn ra thành thị",
+       "example": "Rural-urban migration puts pressure on cities."
+      },
+      {
+       "lemma": "quality of life",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "chất lượng cuộc sống",
+       "example": "Green space improves our quality of life."
+      },
+      {
+       "lemma": "overcrowded",
+       "pos": "adj",
+       "kind": "adj",
+       "meaningVi": "quá đông đúc",
+       "example": "Some districts are badly overcrowded."
+      },
+      {
+       "lemma": "green space",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "không gian xanh",
+       "example": "Children need green space to play."
+      },
+      {
+       "lemma": "property prices",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "giá nhà đất",
+       "example": "Property prices have soared in recent years."
+      },
+      {
+       "lemma": "high-density",
+       "pos": "adj",
+       "kind": "adj",
+       "meaningVi": "mật độ cao",
+       "example": "High-density housing saves land."
+      },
+      {
+       "lemma": "sense of community",
+       "pos": "n",
+       "kind": "collocation",
+       "meaningVi": "tinh thần cộng đồng",
+       "example": "Apartment blocks can lack a sense of community."
+      }
+     ],
+     "questions": [
+      "How are homes today different from homes thirty years ago in your country?",
+      "Why do so many young people move from the countryside to big cities?",
+      "What are the advantages and disadvantages of living in a high-rise apartment?",
+      "Do you think people will live in smaller homes in the future?",
+      "What can governments do to make housing more affordable?",
+      "Is it better to rent or to buy a home?"
+     ],
+     "cueCard": null,
+     "passRule": {
+      "framesUsed": 3,
+      "vocabUsed": 4,
+      "band": 7
+     },
+     "fallback": [
+      {
+       "step": "grammar",
+       "kind": "choice",
+       "variant": "frame-spot",
+       "titleVi": "Chọn cụm so sánh / dự đoán",
+       "instructionVi": "Chọn cụm phù hợp nhất cho chỗ trống.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "Young people prefer apartments, ___ older people tend to stay in houses.",
+         "options": [
+          "whereas",
+          "because",
+          "so that",
+          "in addition"
+         ],
+         "answers": [
+          "whereas"
+         ],
+         "explainVi": "whereas nối hai vế đối lập."
+        },
+        {
+         "prompt": "___ that people will live in smaller flats in the future.",
+         "options": [
+          "I'd imagine",
+          "I used to",
+          "Whereas",
+          "In contrast"
+         ],
+         "answers": [
+          "I'd imagine"
+         ],
+         "explainVi": "Dự đoán: I'd imagine that…"
+        },
+        {
+         "prompt": "Homes ___ be shared by three generations, but nowadays that is rare.",
+         "options": [
+          "used to",
+          "would rather",
+          "are going to",
+          "have to"
+         ],
+         "answers": [
+          "used to"
+         ],
+         "explainVi": "Xưa – nay: used to … but nowadays …"
+        },
+        {
+         "prompt": "One clear advantage is that it saves land. ___, though, is the lack of green space.",
+         "options": [
+          "The main drawback",
+          "The main reason",
+          "For example",
+          "Moreover"
+         ],
+         "answers": [
+          "The main drawback"
+         ],
+         "explainVi": "Chuyển từ ưu điểm sang nhược điểm."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "grammar",
+       "kind": "fill",
+       "variant": "frame-fill",
+       "titleVi": "Điền khung Part 3",
+       "instructionVi": "Điền một từ.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "Property prices have ___ over the last decade.",
+         "options": [],
+         "answers": [
+          "soared",
+          "risen",
+          "rocketed",
+          "increased"
+         ],
+         "explainVi": "Hiện tại hoàn thành cho sự thay đổi đến nay."
+        },
+        {
+         "prompt": "The most effective way to ___ this problem would be to build more homes.",
+         "options": [],
+         "answers": [
+          "tackle",
+          "solve",
+          "address"
+         ],
+         "explainVi": "tackle a problem = giải quyết vấn đề."
+        },
+        {
+         "prompt": "It's quite ___ that cities will become even more crowded.",
+         "options": [],
+         "answers": [
+          "likely"
+         ],
+         "explainVi": "It's quite likely that…"
+        },
+        {
+         "prompt": "Not to ___ the fact that rents are rising.",
+         "options": [],
+         "answers": [
+          "mention"
+         ],
+         "explainVi": "not to mention = chưa kể đến."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "vocab",
+       "kind": "choice",
+       "variant": "collocation",
+       "titleVi": "Ghép collocation",
+       "instructionVi": "Chọn từ đi kèm tự nhiên nhất.",
+       "body": "",
+       "items": [
+        {
+         "prompt": "a serious housing ___",
+         "options": [
+          "shortage",
+          "lack",
+          "missing",
+          "few"
+         ],
+         "answers": [
+          "shortage"
+         ],
+         "explainVi": "housing shortage."
+        },
+        {
+         "prompt": "urban ___ swallows up farmland",
+         "options": [
+          "sprawl",
+          "spread",
+          "growing",
+          "expanse"
+         ],
+         "answers": [
+          "sprawl"
+         ],
+         "explainVi": "urban sprawl."
+        },
+        {
+         "prompt": "improve our quality of ___",
+         "options": [
+          "life",
+          "living",
+          "lives",
+          "live"
+         ],
+         "answers": [
+          "life"
+         ],
+         "explainVi": "quality of life."
+        },
+        {
+         "prompt": "rural-urban ___",
+         "options": [
+          "migration",
+          "moving",
+          "travel",
+          "change"
+         ],
+         "answers": [
+          "migration"
+         ],
+         "explainVi": "rural-urban migration."
+        }
+       ],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "vocab",
+       "kind": "produce",
+       "variant": "paraphrase",
+       "titleVi": "Giải thích từ (paraphrase)",
+       "instructionVi": "Giải thích từ dưới đây bằng tiếng Anh mà không nói ra từ đó, rồi kết thúc bằng \"…oh yes, that's the word\".",
+       "body": "Explain \"infrastructure\" without saying it.",
+       "items": [],
+       "mustUse": [],
+       "model": "It's all the basic things a city needs to work, like roads, bridges, the water supply and public transport… oh yes, infrastructure, that's the word.",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "sentence",
+       "kind": "produce",
+       "variant": "extend",
+       "titleVi": "Kéo dài câu trả lời",
+       "instructionVi": "Biến câu trả lời ngắn thành câu trả lời Part 3 có so sánh.",
+       "body": "Q: How are homes today different from homes thirty years ago?\nA: \"Homes are smaller now.\"",
+       "items": [],
+       "mustUse": [
+        "used to",
+        "nowadays",
+        "whereas"
+       ],
+       "model": "Well obviously there are a number of differences. I suppose the most significant would be size: homes used to be large houses shared by three generations, whereas nowadays most young couples live in compact apartments. On top of this, property prices have soared, so space has become a luxury.",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "sentence",
+       "kind": "produce",
+       "variant": "vi-to-en",
+       "titleVi": "Ý tiếng Việt → nói tiếng Anh",
+       "instructionVi": "Nói ý sau bằng tiếng Anh.",
+       "body": "Một mối lo ngại cơ bản là tình trạng thiếu nhà ở. Cách hiệu quả nhất để giải quyết là xây thêm nhà ở giá rẻ gần các tuyến giao thông công cộng.",
+       "items": [],
+       "mustUse": [
+        "one fundamental concern",
+        "housing shortage",
+        "affordable housing"
+       ],
+       "model": "One fundamental concern is the housing shortage. The most effective way to tackle it would be to build more affordable housing close to public transport.",
+       "seconds": 0,
+       "persona": "",
+       "questions": [],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "talk",
+       "kind": "talk",
+       "variant": "debate",
+       "titleVi": "Tranh luận Part 3",
+       "instructionVi": "Giám khảo đưa ra quan điểm ngược lại — bạn so sánh, dự đoán và bảo vệ ý của mình.",
+       "body": "",
+       "items": [],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "An examiner who politely takes the opposite view to push the learner to compare, predict and justify.",
+       "questions": [
+        "Some people say everyone should live in high-rise apartments to save land. Do you agree?",
+        "How are homes today different from homes thirty years ago?",
+        "Do you think people will live in smaller homes in the future?",
+        "What can governments do to make housing more affordable?"
+       ],
+       "cueTopic": "",
+       "cuePrompts": []
+      },
+      {
+       "step": "talk",
+       "kind": "talk",
+       "variant": "mock",
+       "titleVi": "Thi thử Part 3 — Nhà ở & đô thị",
+       "instructionVi": "Trả lời mỗi câu 4–6 câu, dùng khung so sánh / dự đoán / ưu nhược điểm.",
+       "body": "",
+       "items": [],
+       "mustUse": [],
+       "model": "",
+       "seconds": 0,
+       "persona": "A neutral IELTS examiner running Part 3.",
+       "questions": [
+        "Why do so many young people move from the countryside to big cities?",
+        "What are the advantages and disadvantages of living in a high-rise apartment?",
+        "Is it better to rent or to buy a home?",
+        "How might cities change in the next twenty years?"
+       ],
+       "cueTopic": "",
+       "cuePrompts": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
